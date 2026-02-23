@@ -102,8 +102,6 @@ Create a `.env` file in the project root:
 GEMINI_API_KEY=your_gemini_api_key_here
 ```
 
-> ⚠️ **Never commit your `.env` file to GitHub.** The included `.gitignore` already prevents this.
-
 ---
 
 ## ▶️ Running the Application
