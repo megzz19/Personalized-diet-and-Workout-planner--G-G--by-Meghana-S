@@ -466,7 +466,7 @@ function downloadPDF() {
                 heightLeft -= pdfHeight;
             }
 
-            pdf.save('GandG_Fitness_Plan.pdf');
+            pdf.save('G&G_Fitness_Plan.pdf');
 
             // Cleanup
             if (document.body.contains(reportContainer)) {
