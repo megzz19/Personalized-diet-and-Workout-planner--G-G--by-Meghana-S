@@ -1,0 +1,103 @@
+Exercise_Name,Muscle_Group,Equipment,Difficulty Level,Sets,Reps,Source,is_home_friendly,Difficulty Level Encoded
+Push-ups,"Chest, Triceps, Shoulders",Bodyweight,Intermediate,3,15,Top50,True,1
+Squats,"Quadriceps, Hamstrings, Glutes",Bodyweight,Beginner,4,12,Top50,True,0
+Lunges,"Quadriceps, Hamstrings, Glutes",Bodyweight,Beginner,3,10,Top50,True,0
+Burpees,Full Body,Bodyweight,Advanced,3,10,Top50,True,2
+Mountain Climbers,"Core, Shoulders, Legs",Bodyweight,Intermediate,3,20,Top50,True,1
+Jumping Jacks,Full Body,Bodyweight,Beginner,3,30,Top50,True,0
+Bicycle Crunches,Core,Bodyweight,Intermediate,3,20,Top50,True,1
+Dips,"Triceps, Chest",Parallel Bars or Chair,Intermediate,3,12,Top50,False,1
+Pull-ups,"Back, Biceps",Pull-up Bar,Advanced,3,8,Top50,False,2
+Russian Twists,"Core, Obliques",None or Dumbbell,Intermediate,3,20,Top50,False,1
+Leg Raises,Lower Abs,Bodyweight,Intermediate,3,15,Top50,True,1
+Deadlifts,"Back, Hamstrings, Glutes",Barbell,Advanced,4,8,Top50,False,2
+Bench Press,"Chest, Triceps","Bench, Barbell",Intermediate,4,10,Top50,False,1
+Rows,"Back, Biceps",Dumbbells or Barbell,Intermediate,3,12,Top50,False,1
+Shoulder Press,"Shoulders, Triceps",Dumbbells or Barbell,Intermediate,3,10,Top50,False,1
+Calf Raises,Calves,None or Dumbbells,Beginner,3,20,Top50,False,0
+Tricep Extensions,Triceps,Dumbbells,Intermediate,3,12,Top50,False,1
+Lateral Raises,Shoulders,Dumbbells,Intermediate,3,12,Top50,False,1
+Glute Bridges,"Glutes, Hamstrings",Bodyweight,Beginner,3,15,Top50,True,0
+Superman,"Lower Back, Glutes",Bodyweight,Beginner,3,12,Top50,True,0
+Box Jumps,"Legs, Core",Box or Platform,Advanced,4,10,Top50,False,2
+Kettlebell Swings,"Glutes, Hamstrings, Core",Kettlebell,Intermediate,3,15,Top50,False,1
+Step-ups,"Quadriceps, Hamstrings, Glutes",Step or Box,Intermediate,3,12,Top50,False,1
+Face Pulls,"Rear Deltoids, Upper Back",Resistance Band or Cable Machine,Intermediate,3,15,Top50,False,1
+Lat Pulldowns,"Back, Biceps",Cable Machine,Intermediate,3,12,Top50,False,1
+Reverse Lunges,"Quadriceps, Hamstrings, Glutes",None or Dumbbells,Intermediate,3,10,Top50,False,1
+Plyo Squats,"Quadriceps, Glutes",Bodyweight,Intermediate,3,12,Top50,True,1
+Scissors Kicks,"Lower Abs, Hip Flexors",Bodyweight,Intermediate,3,20,Top50,True,1
+Tricep Dips,Triceps,Bench or Chair,Intermediate,3,12,Top50,False,1
+Seated Rows,"Back, Biceps",Cable Machine or Resistance Band,Intermediate,3,12,Top50,False,1
+Flutter Kicks,Lower Abs,Bodyweight,Intermediate,3,20,Top50,True,1
+Inverted Rows,"Back, Biceps",Low Bar or TRX,Intermediate,3,10,Top50,False,1
+Bulgarian Split Squats,"Quadriceps, Hamstrings, Glutes",Bench or Step,Advanced,3,10,Top50,False,2
+Prone Cobras,"Upper Back, Rear Deltoids",Bodyweight,Beginner,3,12,Top50,True,0
+Resistance Band Pull-Aparts,"Upper Back, Rear Deltoids",Resistance Band,Beginner,3,15,Top50,False,0
+Wall Angels,"Shoulders, Upper Back",Wall,Beginner,3,10,Top50,False,0
+Bird Dogs,"Core, Lower Back",Bodyweight,Beginner,3,10,Top50,True,0
+Plyometric Push-ups,"Chest, Triceps, Shoulders",Bodyweight,Advanced,3,8,Top50,True,2
+Decline Push-ups,"Upper Chest, Triceps",Bench or Step,Advanced,3,12,Top50,False,2
+Incline Push-ups,"Lower Chest, Triceps",Bench or Step,Beginner,3,12,Top50,False,0
+Dead Bugs,"Core, Lower Back",Bodyweight,Beginner,3,12,Top50,True,0
+Pistol Squats,"Quadriceps, Hamstrings, Glutes",Bodyweight,Advanced,3,5,Top50,True,2
+Zottman Curls,"Biceps, Forearms",Dumbbells,Intermediate,3,10,Top50,False,1
+Dragon Flags,Full Core,Bench or Sturdy Surface,Advanced,3,8,Top50,False,2
+Renegade Rows,"Back, Core, Shoulders",Dumbbells,Advanced,3,10,Top50,False,2
+Frog Jumps,"Quadriceps, Calves, Glutes",Bodyweight,Intermediate,4,15,Top50,True,1
+Turkish Get-ups,"Full Body, Core, Shoulders",Kettlebell,Advanced,3,5,Top50,False,2
+Bear Crawls,"Core, Shoulders, Hips",Bodyweight,Intermediate,3,20,Top50,True,1
+Windshield Wipers,"Obliques, Core",Pull-up Bar,Advanced,3,12,Top50,False,2
+Thrusters,"Legs, Shoulders, Core",Dumbbells or Barbell,Advanced,4,10,Top50,False,2
+Incline dumbbell press,Upper Chest,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Incline cable crossovers,Upper Chest,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Incline dumbbell flyes,Upper Chest,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Decline dumbbell press,Lower Chest,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Decline cable crossovers,Lower Chest,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Decline dumbbell flyes,Lower Chest,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Chest flyes,Chest Isolation,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Cable crossovers,Chest Isolation,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Dumbbell flyes,Chest Isolation,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Pull-ups,Upper,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Barbell rows,Upper,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Dumbbell rows,Upper,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Seated cable rows,Upper,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Bent-over rows,Lower,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Hyperextensions,Lower,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Bird dog,Lower,Bodyweight,Beginner,3 sets of 10-15 reps per side,10-16,Workout,True,0
+Barbell curls,Biceps,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Dumbbell curls,Biceps,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Preacher curls,Biceps,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Hammer curls,Biceps,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Concentration curls,Biceps,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Close-grip bench press,Triceps,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Overhead triceps extensions,Triceps,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Triceps pushdowns,Triceps,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Skull crushers,Triceps,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Triceps dips,Triceps,Bodyweight,Beginner,3-5,8-13,Workout,True,0
+Barbell squats,Quadriceps,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Leg press,Quadriceps,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Leg extensions,Quadriceps,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Romanian deadlifts,Hamstrings,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Leg curls,Hamstrings,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Barbell hip thrusts,Glutes,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Donkey kicks,Glutes,Bodyweight,Beginner,3 sets of 10-15 reps per leg,10-15,Workout,True,0
+Standing calf raises,Calves,Bodyweight,Beginner,3 sets of 15-20 reps,15-20,Workout,True,0
+Seated calf raises,Calves,Bodyweight,Beginner,3 sets of 15-20 reps,15-21,Workout,True,0
+Dumbbell front raises,Anterior,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Military press,Anterior,Bodyweight,Beginner,3-4,8-12,Workout,True,0
+Lateral raises,Lateral,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Bent-over lateral raises,Posterior,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Face pulls,Posterior,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Crunches,Upper,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Leg raises,Upper,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Bicycle crunches,Middle,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Russian twists,Middle,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Hanging leg raises,Lower,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Plank,Lower,Bodyweight,Beginner,30-60 seconds,1,Workout,True,0
+Wrist curl,Wrist Flexors,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Wrist extension,Wrist Extensors,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Plate pinch,Grip Strength,Bodyweight,Beginner,3-4,15-20,Workout,True,0
+Towel pull-up,Grip Strength,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Fat grip dumbbell curl,Grip Strength,Bodyweight,Beginner,3-4,10-15,Workout,True,0
+Hammer curl,Grip Strength,Bodyweight,Beginner,3-4,10-15,Workout,True,0

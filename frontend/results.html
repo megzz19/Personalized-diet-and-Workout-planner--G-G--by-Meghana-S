@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Plan - G&G</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <!-- html2canvas and jsPDF Libraries -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+</head>
+
+<body>
+    <div class="background-overlay"></div>
+
+    <!-- Sidebar -->
+    <nav class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <h2>G&G</h2>
+            <button class="sidebar-close" id="sidebarClose">✕</button>
+        </div>
+        <ul class="sidebar-nav">
+            <li><a href="index.html"><span class="nav-icon">🏠</span> Home</a></li>
+            <li><a href="food_analysis.html"><span class="nav-icon">🍽️</span> Food Analysis</a></li>
+        </ul>
+    </nav>
+    <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+    <div class="container fade-in has-sidebar">
+        <!-- Hamburger button -->
+        <button class="sidebar-toggle" id="sidebarToggle">☰</button>
+
+        <header>
+            <h1 class="main-heading">Your Recommendations!</h1>
+            <p class="subheading">Here is your personalized G&G plan.</p>
+        </header>
+
+        <main id="planContent">
+            <!-- Stats Section -->
+            <div id="loading" class="text-center">
+                <div class="spinner"></div>
+                <p>Generating your personalized plan...</p>
+            </div>
+
+            <div id="results" class="hidden">
+                <div class="card stats-card">
+                    <h3>Daily Nutrition Targets</h3>
+                    <div class="stats-grid" id="dailyStats">
+                        <!-- Stats injected via JS -->
+                    </div>
+                </div>
+
+                <div class="accordion">
+                    <!-- Section 1: Diet Plan -->
+                    <div class="accordion-item">
+                        <button class="accordion-header active">
+                            Diet Plan <span class="arrow">▼</span>
+                        </button>
+                        <div class="accordion-content" style="display: block;">
+                            <div class="table-responsive">
+                                <table class="result-table">
+                                    <div class="day-tabs" id="dietDayTabs">
+                                        <!-- Tabs injected via JS -->
+                                    </div>
+                                    <table class="result-table">
+                                        <thead>
+                                            <tr>
+                                                <th>Food Item</th>
+                                                <th>Category</th>
+                                                <th>Calories</th>
+                                                <th>Protein (g)</th>
+                                                <th>Carbs (g)</th>
+                                                <th>Fats (g)</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody id="dietTableBody">
+                                        </tbody>
+                                        <!-- Footer for daily total? -->
+                                        <tfoot id="dietTableFooter">
+                                        </tfoot>
+                                    </table>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Section 2: Workout Plan -->
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            Workout Plan <span class="arrow">▼</span>
+                        </button>
+                        <div class="accordion-content">
+                            <div class="table-responsive">
+                                <table class="result-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Exercise</th>
+                                            <th>Difficulty</th>
+                                            <th>Equipment</th>
+                                            <th>Sets x Reps</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="workoutTableBody">
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Section 3: Additional Tips -->
+                    <div class="accordion-item">
+                        <button class="accordion-header">
+                            Additional Tips <span class="arrow">▼</span>
+                        </button>
+                        <div class="accordion-content">
+                            <ul id="tipsList" class="tips-list">
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="actions">
+                    <button id="downloadBtn" class="btn-primary">Download Your Planner (PDF)</button>
+                    <button onclick="window.location.href='index.html'" class="btn-secondary">Start Over</button>
+                </div>
+            </div>
+
+            <div id="errorMsg" class="card error-card hidden">
+                <h3>Oops!</h3>
+                <p id="errorText">Something went wrong.</p>
+                <button onclick="window.location.href='index.html'" class="btn-secondary">Try Again</button>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

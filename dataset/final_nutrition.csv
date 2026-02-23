@@ -1,0 +1,1768 @@
+Food_Name,Calories,Protein,Carbs,Fats,Food Category,Source
+Hot Tea (Garam Chai),16.14,0.39,2.58,0.53,Indian,Indian
+Instant Coffee,23.16,0.64,3.65,0.75,Indian,Indian
+Espreso Coffee,51.54,1.75,6.62,2.14,Indian,Indian
+Iced Tea,10.34,0.03,2.7,0.01,Indian,Indian
+Raw Mango Drink (Aam Panna),35.92,0.16,9.05,0.03,Indian,Indian
+Fruit Punch (With Fresh Juices),36.12,0.14,9.38,0.03,Indian,Indian
+Fruit Punch (With Squashes),23.13,0.07,5.99,0.02,Indian,Indian
+Lemonade,20.8,0.03,5.48,0.01,Indian,Indian
+Lem-O-Gin,21.52,0.08,5.55,0.03,Indian,Indian
+Cumin Infused Water (Jeere/Zeere Ka Pani),9.09,0.17,1.86,0.11,Indian,Indian
+Coco Pine Cooler,32.75,0.56,5.72,1.0,Indian,Indian
+Summer Cooler,22.43,0.37,5.43,0.04,Indian,Indian
+Hot Cocoa,90.1,3.36,9.23,4.56,Indian,Indian
+Cold Coffee With Ice Cream,67.85,1.57,11.24,2.11,Indian,Indian
+Banana Milkshake (Kele Milkshake),65.31,1.84,9.15,2.37,Indian,Indian
+Mango Milkshake (Aam Milkshake),56.9,1.73,7.23,2.35,Indian,Indian
+Pineapple Milkshake (Ananas Milkshake),55.72,1.66,7.62,2.23,Indian,Indian
+Orange Milkshake (Narangi Milkshake),57.42,1.86,7.11,2.52,Indian,Indian
+Egg Nog,97.14,4.78,8.15,5.11,Indian,Indian
+Sweet Lassi (Meethi Lassi),35.66,1.29,6.51,0.68,Indian,Indian
+Lassi (Salted),18.84,1.35,1.86,0.72,Indian,Indian
+Cheese And Chilli Sandwich,218.11,6.8,27.4,9.78,Indian,Indian
+Egg Sandwich (Ande Ka Sandwich),285.96,8.69,29.16,15.8,Indian,Indian
+Cucumber Sandwich (Kheere Ka Sandwich),188.6,4.8,25.77,8.0,Indian,Indian
+Cheese And Pineapple Sandwich (Cheese Aur Ananas Ka Sandwich),257.71,8.2,29.1,12.8,Indian,Indian
+Cheese And Tomato Sandwich (Cheese Aur Tamatar Ke Sandwich),243.32,7.92,26.92,12.27,Indian,Indian
+Chicken Sandwich,253.27,13.12,25.38,11.75,Indian,Indian
+Peanut And Tomato Sandwich (Moongfali Aur Tamatar Ka Sandwich),291.43,9.53,28.54,16.14,Indian,Indian
+Rainbow Sandwich,272.75,7.75,34.26,12.54,Indian,Indian
+Club Sandwich,235.32,7.31,18.51,15.12,Indian,Indian
+Vegetarian Club Sandwich,198.33,5.45,19.68,11.33,Indian,Indian
+Pin Wheel Sandwich,311.52,8.77,14.0,24.93,Indian,Indian
+Carrot Apple Sandwich (Gajar Aur Seb Ka Sandwich),214.11,5.3,29.04,9.12,Indian,Indian
+Salami Sandwich,255.59,8.7,21.54,15.51,Indian,Indian
+Vegetable And Mayonnaise Sandwich,244.26,4.47,23.2,15.4,Indian,Indian
+Egg And Tomato Sandwich (Ande Aur Tamatar Ka Sandwich),222.11,7.66,25.9,10.51,Indian,Indian
+Sweet Open Sandwich,244.25,4.99,39.24,8.15,Indian,Indian
+Mushroom And Cheese Sandwich (Toasted),227.42,7.79,21.01,13.01,Indian,Indian
+Cheese And Tomato Sandwich (Toasted) (Cheese Aur Tamatar Ke Sandwich (Toasted)),224.58,6.82,21.42,12.95,Indian,Indian
+Pea Potato Sandwich (Toasted) (Matar Aloo Ka Sandwich),164.9,4.6,25.17,5.43,Indian,Indian
+Paneer Pea Sandwich (Toasted) (Paneer Matar Ka Sandwich),249.56,12.4,24.05,11.98,Indian,Indian
+Chicken Sandwich (Toasted),167.37,12.08,18.82,5.32,Indian,Indian
+Pea Keema Sandwich (Toasted) (Matar Aur Keema Ka Sandwich),171.78,11.06,20.26,5.61,Indian,Indian
+Classic Club Sandwich,200.83,6.74,18.49,11.56,Indian,Indian
+Sesame Toast,495.19,1.9,11.15,49.38,Indian,Indian
+Cracked Wheat Porridge (Meetha Daliya),81.57,2.64,8.87,4.08,Indian,Indian
+Semolina Porridge (Suji/Rava Daliya),100.89,3.75,12.39,4.08,Indian,Indian
+Oatmeal Porridge,72.85,2.6,8.77,3.22,Indian,Indian
+Cornflakes With Milk,117.33,3.59,14.95,5.12,Indian,Indian
+Rice Flakes (Chiwda/Aval),112.44,3.62,15.57,3.99,Indian,Indian
+Wheat Flakes,112.44,3.62,15.57,3.99,Indian,Indian
+Murmura (Puffed Rice),113.32,3.62,15.67,4.04,Indian,Indian
+Puffed Wheat (Murmure/Moori),113.32,3.62,15.67,4.04,Indian,Indian
+Boiled Egg (Ubla Anda),45.35,4.43,0.12,3.04,Indian,Indian
+Fried Egg,223.67,11.59,0.31,19.62,Indian,Indian
+Poached Egg,123.87,11.98,0.37,8.19,Indian,Indian
+Scrambled Egg (Ande Ki Bhurji),155.97,10.29,1.35,12.21,Indian,Indian
+Baked Egg,218.85,11.88,15.42,12.65,Indian,Indian
+Plain Omelette/Omlet,272.41,9.66,0.64,25.74,Indian,Indian
+Stuffed Egg Omelette/Omlet,203.51,8.6,2.3,17.77,Indian,Indian
+Pancake,203.36,5.68,20.49,10.82,Indian,Indian
+Keema Pancake,176.27,9.01,9.56,11.25,Indian,Indian
+Vegetable Pancake,125.18,3.87,12.24,6.57,Indian,Indian
+Jam And Fruit Pancake,162.02,3.79,20.73,7.01,Indian,Indian
+Khoa And Coconut Pancake,271.98,6.98,27.32,15.29,Indian,Indian
+Brown Stock,21.32,1.95,0.25,1.38,Indian,Indian
+Vegetable Stock,17.6,0.3,0.96,1.38,Indian,Indian
+Chicken Stock,29.88,3.69,0.37,1.51,Indian,Indian
+Clear Tomato Soup (Tamatar Ka Soup),80.07,4.79,3.45,12.22,Indian,Indian
+Lentil Soup,31.17,9.65,3.94,11.68,Indian,Indian
+Chicken Consomme (Clear Chicken Soup),47.94,11.47,1.19,12.02,Indian,Indian
+Cream Of Tomato Soup,97.81,4.61,3.93,13.12,Indian,Indian
+Cream Of Green Peas Soup,127.84,7.13,6.75,14.78,Indian,Indian
+Cream Of Spinach Soup,100.54,5.21,3.45,13.31,Indian,Indian
+Cream Of Mixed Vegetable Soup,59.65,6.84,4.93,9.05,Indian,Indian
+Cream Of Mushroom Soup,117.28,6.64,3.74,15.5,Indian,Indian
+Chicken Sweet Corn Soup,28.32,14.48,1.63,12.59,Indian,Indian
+Minestrone Soup,42.66,9.3,3.71,11.09,Indian,Indian
+Egg Drop Soup,26.64,12.93,1.1,13.52,Indian,Indian
+Chinese Cabbage And Meat Ball Soup,484.31,5.21,1.43,56.57,Indian,Indian
+French Onion Soup,55.61,11.41,4.28,14.39,Indian,Indian
+Hot And Sour Soup,31.51,3.12,1.78,1.31,Indian,Indian
+Talaumein Soup,35.63,10.12,4.17,12.78,Indian,Indian
+Cold Cucumber Soup (Thanda Kheere Ka Soup),48.03,2.99,4.58,1.99,Indian,Indian
+Cold Summer Garden Soup,49.19,8.57,2.65,14.08,Indian,Indian
+Chapati/Roti,202.31,5.88,35.65,3.56,Indian,Indian
+Plain Parantha/Paratha,298.3,5.06,30.69,16.86,Indian,Indian
+Potato Parantha/Paratha (Aloo Ka Parantha/Paratha),205.04,3.7,23.92,10.22,Indian,Indian
+Radish Parantha/Paratha (Mooli Ka Parantha/Paratha),183.52,3.3,20.54,9.53,Indian,Indian
+Cauliflower Parantha/Paratha (Phoolgobhi Ka Parantha/Paratha),178.07,3.73,18.84,9.47,Indian,Indian
+Dal Parantha/Paratha,268.24,6.78,30.03,13.05,Indian,Indian
+Sprouted Moong Parantha/Paratha,228.59,4.29,24.31,12.43,Indian,Indian
+Pea Parantha/Paratha (Matar Ka Parantha/Paratha),190.73,5.59,21.51,8.8,Indian,Indian
+Keema Parantha/Paratha,238.09,9.41,18.36,13.91,Indian,Indian
+Paneer Parantha/Paratha,262.97,7.98,24.33,14.62,Indian,Indian
+Besan And Spinach Parantha/Paratha (Besan Aur Palak Ka Parantha/Paratha),216.49,5.54,21.39,12.09,Indian,Indian
+Poori,737.63,1.35,8.22,77.61,Indian,Indian
+Spinach Poori (Palak Poori),684.25,1.42,7.76,71.86,Indian,Indian
+Methi Poori,710.02,1.45,7.98,74.6,Indian,Indian
+Dal Stuffed Poori,785.16,2.08,10.14,81.69,Indian,Indian
+Potato Stuffed Poori (Aloo Ki Poori),776.74,1.52,9.4,81.35,Indian,Indian
+Tandoori Parantha/Paratha,295.37,5.08,30.74,16.51,Indian,Indian
+Boiled Rice (Uble Chawal),117.19,2.6,25.72,0.18,Indian,Indian
+Plain Pulao,140.21,2.34,21.82,4.62,Indian,Indian
+Mixed Vegetable Pulao,113.05,2.72,17.49,3.33,Indian,Indian
+Mushroom Pulao,124.29,2.52,19.02,4.03,Indian,Indian
+Sprouted Moong Pulao,112.97,2.19,17.49,3.61,Indian,Indian
+Paneer Pulao,581.91,1.98,8.76,59.81,Indian,Indian
+Peanut Pulao,193.28,5.32,21.18,9.51,Indian,Indian
+Navratan Pulao,261.71,6.2,36.98,9.45,Indian,Indian
+Green Chickpeas Pulao (Choliya Pulao/Hare Chane Ka Pulao),173.43,4.88,27.57,4.82,Indian,Indian
+Mutton Biryani/Biriyani,190.76,7.38,22.5,7.72,Indian,Indian
+Vegetable Biryani/Biriyani,174.61,3.16,18.56,9.51,Indian,Indian
+"Lemon Rice (Pulihora, Elumichai Sadam, Chitranna)",176.3,4.26,21.62,7.88,Indian,Indian
+Sweet Rice (Meethe Chawal),215.41,2.1,42.59,4.57,Indian,Indian
+Curd Rice (Dahi Bhaat/Dahi Chawal/ Perugu Annam/Daddojanam/Thayir Saadam),195.74,5.75,32.93,4.32,Indian,Indian
+Tamarind Rice (Chintapandu Pulihora/Puliyodharai/Puli Sadam/Huli Anna),373.04,7.45,65.08,8.53,Indian,Indian
+Spanish Rice,164.24,4.19,31.1,2.23,Indian,Indian
+Chinese Fried Rice,120.58,4.05,13.4,5.43,Indian,Indian
+Macroni Cheese Pie,170.63,5.85,21.1,7.48,Indian,Indian
+Vegetable Chowmein,129.71,3.07,15.44,6.36,Indian,Indian
+Chicken Chowmein,151.33,6.33,13.3,8.23,Indian,Indian
+Cheese Noodle Ring,133.67,6.22,13.96,6.12,Indian,Indian
+Spaghetti And Cheese Balls In Tomato Sauce,508.32,2.41,7.82,52.08,Indian,Indian
+Penne Platter,177.4,5.04,20.87,8.71,Indian,Indian
+Pasta Hot Pot,125.17,5.84,11.6,6.47,Indian,Indian
+Chicken Lasagne,187.49,10.45,13.9,10.36,Indian,Indian
+Fettuccine With Spinach Sauce,129.21,3.1,12.19,7.83,Indian,Indian
+Naan,286.45,8.05,51.75,4.99,Indian,Indian
+Bhatura,793.2,1.63,10.73,82.56,Indian,Indian
+Idli,137.54,4.64,28.18,0.33,Indian,Indian
+Masala Dosa,164.58,3.29,19.57,7.84,Indian,Indian
+Semolina Dosa (Suji/Rava Dosa),227.05,7.3,32.84,7.12,Indian,Indian
+Onion Tomato Uttapam,462.02,1.91,11.32,45.3,Indian,Indian
+Paneer Kaathi Roll,285.94,6.92,20.1,19.55,Indian,Indian
+Makki Ki Roti,263.97,3.49,24.19,16.85,Indian,Indian
+Washed Moong Dal (Dhuli Moong Ki Dal),50.0,2.68,5.91,1.68,Indian,Indian
+Washed Urad Dal (Dhuli Urad Ki Dal),61.32,2.51,5.84,2.98,Indian,Indian
+Split Bengal Gram With Bottle Gourd (Channa Dal With Ghiya/Lauki),73.25,2.79,7.1,3.6,Indian,Indian
+Dry Washed Urad,124.71,6.85,15.66,3.5,Indian,Indian
+Mixed Dal,61.93,2.51,5.79,3.1,Indian,Indian
+Whole Moong (Moong Ki Dal),53.7,2.25,5.22,2.56,Indian,Indian
+Whole Masoor (Masoor Ki Dal),54.05,2.28,5.37,2.52,Indian,Indian
+Whole Moth (Moth Ki Dal),55.0,2.01,5.74,2.62,Indian,Indian
+Whole Urad (Urad Ki Dal),53.8,2.21,5.05,2.62,Indian,Indian
+Moti Mahal Dal (Urad Rajmah Mix Dal),103.13,3.93,8.74,5.66,Indian,Indian
+Black Channa Curry/Bengal Gram Curry (Kale Chane Ki Curry),140.68,5.67,14.11,6.61,Indian,Indian
+Chickpeas Curry (Safed Channa Curry),163.43,6.1,19.98,6.84,Indian,Indian
+Lobia Curry,148.99,6.06,17.88,5.62,Indian,Indian
+Soyabean Curry,163.28,10.43,6.76,10.19,Indian,Indian
+Kidney Bean Curry (Rajmah Curry),143.73,5.95,16.38,5.77,Indian,Indian
+Sambar,96.92,3.35,10.57,4.38,Indian,Indian
+Besan Kadhi With Pakodies,403.35,1.64,3.56,42.59,Indian,Indian
+Khatta Channa,202.57,6.3,21.14,10.56,Indian,Indian
+Sprouted Moong Dal Chat,32.47,1.35,6.01,0.32,Indian,Indian
+Potato Cauliflower (Aloo Gobhi),106.18,1.9,5.99,8.13,Indian,Indian
+Potato Capsicum (Shimla Mirch Aloo),125.53,1.41,8.72,9.33,Indian,Indian
+Cabbage And Peas (Pattagobhi Aur Matar),63.88,3.24,6.24,2.64,Indian,Indian
+Carrot And Fenugreek Leaves (Gajar Methi),61.92,2.1,4.17,3.81,Indian,Indian
+Potato Fenugreek (Aloo Methi),135.15,2.25,8.47,10.04,Indian,Indian
+Brinjal Bhartha (Baingan Ka Bhartha),65.12,1.38,4.4,4.48,Indian,Indian
+Dry Potato (Sookhe Aloo),103.15,1.62,14.38,4.18,Indian,Indian
+Beans With Coconut (Nariyal Aur Sem/Phali; Beans Thoran),131.63,2.62,4.39,11.39,Indian,Indian
+Cauliflower With Coconut (Nariyal Ke Saath Phoolgobhi),132.11,2.64,3.99,11.56,Indian,Indian
+Carrot And Cabbage With Coconut (Nariyal Ke Saath Pattagobhi Aur Gajar),106.61,1.82,4.99,8.62,Indian,Indian
+Raw Turnip With Coconut,132.15,1.8,5.78,11.47,Indian,Indian
+Raw Papaya With Coconut (Papaya Thoran),132.75,1.54,5.58,11.42,Indian,Indian
+Stuffed Okra (Bharwa Bhindi),94.34,2.08,3.85,7.66,Indian,Indian
+Stuffed Round Gourd (Bharwa Tinde),72.8,1.1,4.02,5.75,Indian,Indian
+Stuffed Capsicum (Bharwa Shimla Mirch),90.94,1.34,8.26,5.7,Indian,Indian
+Stuffed Brinjal (Bharwa Baingan),93.0,1.53,3.96,7.73,Indian,Indian
+Stuffed Tomatoes (Bharwa Tamatar),93.35,3.28,6.19,6.06,Indian,Indian
+Pea Potato Curry (Aloo Matar),100.92,3.48,9.74,5.13,Indian,Indian
+Pea Paneer Curry (Matar Paneer),134.83,6.61,9.29,7.75,Indian,Indian
+Pea Mushroom Curry (Matar Mushroom),93.3,3.87,7.41,5.16,Indian,Indian
+Pea Curry (Matar Ki Sabzi),102.99,4.51,9.2,5.11,Indian,Indian
+Pea Vadi Curry,101.95,4.64,8.9,5.08,Indian,Indian
+Paneer Curry,176.52,7.8,8.4,12.38,Indian,Indian
+Lotus Stem Curry (Kamal Kakdi Curry),110.34,1.53,9.24,7.25,Indian,Indian
+Gravy For Kofta,125.59,1.75,6.31,10.35,Indian,Indian
+Pea Kofta Curry (Matar Kofta Curry),595.66,2.01,4.17,63.39,Indian,Indian
+Spinach Kofta Curry (Palak Kofta Curry),571.78,1.09,3.56,61.49,Indian,Indian
+Paneer Kofta Curry,670.91,2.39,3.27,72.06,Indian,Indian
+Lotus Stem Kofta Curry (Kamal Kakdi Kofta Curry),633.56,0.96,5.01,67.76,Indian,Indian
+Raw Banana Kofta Curry (Kela Kofta Curry),627.27,0.62,3.4,67.98,Indian,Indian
+Cauliflower Kofta Curry (Phoolgobhi Kofta Curry),641.1,1.04,2.62,69.62,Indian,Indian
+Cabbage Kofta Curry (Pattagobhi Kofta Curry),639.81,0.98,2.87,69.4,Indian,Indian
+Ghiya/Lauki Kofta Curry,638.71,0.89,2.71,69.4,Indian,Indian
+Spinach Paneer Kofta Curry (Palak Paneer Kofta Curry),606.03,1.43,2.94,65.41,Indian,Indian
+Vegetarian Egg Kofta Curry,627.41,1.33,4.26,67.24,Indian,Indian
+Baked Vegetables,88.99,3.67,8.44,4.44,Indian,Indian
+Cauliflower Musallam (Phoolgobhi Musallam),58.83,1.89,4.48,3.55,Indian,Indian
+Baked Vegetables With Spinach,77.79,3.22,6.93,4.03,Indian,Indian
+Baked Potato With Skin,135.77,3.43,11.11,8.5,Indian,Indian
+Shepherd'S Pie (Vegetarian),135.63,5.04,12.03,7.3,Indian,Indian
+Baked Brinjal In Tomato Sauce,38.63,1.58,4.13,1.62,Indian,Indian
+Dum Aloo,682.33,0.7,3.33,74.01,Indian,Indian
+Spinach Paneer (Palak Paneer),77.68,4.03,4.43,4.76,Indian,Indian
+Methi Chaman,475.62,1.54,2.78,50.91,Indian,Indian
+Sarson Ka Saag,87.84,3.0,5.33,5.86,Indian,Indian
+Jackfruit Sabzi (Kathal Ki Sabzi),625.4,0.69,3.4,67.6,Indian,Indian
+Avial,124.56,2.46,8.47,8.94,Indian,Indian
+Al Yakhani,147.54,2.86,4.65,13.14,Indian,Indian
+Shahi Paneer,156.5,5.06,6.64,12.34,Indian,Indian
+Paneer In Butter Sauce,145.61,6.99,9.7,8.81,Indian,Indian
+Methi Malai Paneer,194.98,7.34,8.15,14.76,Indian,Indian
+Chilli Paneer,777.51,2.1,3.31,84.01,Indian,Indian
+Paneer Makhana Korma,775.82,3.24,4.63,82.76,Indian,Indian
+Kadhai Paneer,107.99,4.33,7.34,6.81,Indian,Indian
+Roghan Josh,139.59,9.56,4.93,9.02,Indian,Indian
+Spinach Mutton (Palak Mutton),80.32,5.74,3.45,4.71,Indian,Indian
+Pea Keema Curry (Matar Keema Ki Sabzi),133.0,8.43,6.24,8.14,Indian,Indian
+Keema Kofta Curry,154.45,9.77,5.64,10.39,Indian,Indian
+Kashmiri Mutton Koftas (Gushtaba),97.42,6.33,3.04,6.77,Indian,Indian
+Mutton Yakhni,104.13,8.27,0.84,7.7,Indian,Indian
+Chicken Yakhni,99.0,10.66,0.78,6.1,Indian,Indian
+Mutton Do Piaza,183.3,9.39,4.14,14.41,Indian,Indian
+Mutton Chops,663.64,4.03,1.48,71.31,Indian,Indian
+Shammi Kebab,685.69,4.52,3.54,72.61,Indian,Indian
+Scotch Egg,676.89,4.05,1.91,72.62,Indian,Indian
+Shepherd'S Pie (With Minced Meat),142.78,7.45,8.06,8.88,Indian,Indian
+Chicken Curry,129.22,11.79,3.38,7.57,Indian,Indian
+Tandoori Chicken,145.2,16.26,2.34,7.93,Indian,Indian
+Butter Chicken,137.0,10.92,3.74,8.7,Indian,Indian
+Chicken Kebab,729.41,3.71,1.11,78.89,Indian,Indian
+Chilli Chicken,198.83,9.57,2.86,16.56,Indian,Indian
+Fried Chicken With Tomato Sauce (Fried Chicken Tamatar Ki Chutney Kay Saath),125.03,11.48,2.51,7.61,Indian,Indian
+Fish Curry (Machli Curry),111.13,8.76,3.77,6.69,Indian,Indian
+Fried Fish (Indian Style) (Tali Hui Machli),658.54,4.35,5.4,68.88,Indian,Indian
+Fried Fish And Chips (English Style) (Tali Hui Machli Aur Chips),651.75,3.36,2.77,69.69,Indian,Indian
+Tomato Fish,489.79,2.39,3.18,51.91,Indian,Indian
+Baked Fish With Cheese Sauce,113.96,8.64,4.06,7.02,Indian,Indian
+Fish Tikka,117.33,16.0,3.91,4.15,Indian,Indian
+Tandoori Fish,95.98,11.19,2.37,4.64,Indian,Indian
+"Paneer, Apple And Pineapple Salad",95.08,3.88,8.35,5.07,Indian,Indian
+Russian Salad,114.83,4.26,6.5,7.84,Indian,Indian
+Pasta Salad,190.36,4.15,12.7,13.92,Indian,Indian
+Deviled Egg,98.56,4.97,2.23,7.72,Indian,Indian
+Hawain Salad,175.23,4.27,14.35,11.37,Indian,Indian
+Mixed Pulse And Vegetable Salad,83.12,4.74,13.96,0.84,Indian,Indian
+Sprouted Moong Salad,37.81,2.29,5.48,0.74,Indian,Indian
+Tossed Salad,62.96,1.02,4.95,4.22,Indian,Indian
+Mixed Vegetable Salad With Curd Sauce,60.28,4.23,7.03,1.5,Indian,Indian
+Potato Salad (Aloo Ka Salaad),89.91,1.4,11.19,4.4,Indian,Indian
+Waldroff Salad,141.75,1.47,11.02,10.05,Indian,Indian
+Coleslaw,76.71,1.24,5.59,5.32,Indian,Indian
+Fruit Salad (Phalon Ka Salaad),78.14,0.91,15.96,1.22,Indian,Indian
+Tomato Onion Raita (Tamatar Aur Pyaaz Ka Raita),59.0,3.74,7.08,1.84,Indian,Indian
+Peanut Raita (Mungfali Ka Raita),150.39,8.59,9.3,8.98,Indian,Indian
+Sprouted Moong Raita,60.89,4.62,6.13,2.19,Indian,Indian
+Bottle Gourd Raita (Ghiya/Lauki Ka Raita),56.31,3.98,5.76,2.07,Indian,Indian
+Cucumber Raita (Kheere Ka Raita),59.13,4.04,6.35,2.08,Indian,Indian
+Carrot And Spinach Raita (Gajar Aur Palak Ka Raita),56.83,4.0,5.83,1.99,Indian,Indian
+Mint Raita (Pudinay Ka Raita),77.59,5.64,7.65,2.96,Indian,Indian
+Potato Raita (Aloo Ka Raita),75.38,4.22,10.24,2.04,Indian,Indian
+Boondi Raita,687.72,2.19,3.96,73.83,Indian,Indian
+Sweet Raita (Meetha Raita),99.24,3.24,17.93,1.78,Indian,Indian
+Dahi Vadas/Dahi Bhalla,667.73,2.96,5.49,70.4,Indian,Indian
+Gunjia,667.34,2.98,5.68,70.28,Indian,Indian
+Saunth/Sonth Chutney With Tamarind/Imli,141.53,1.01,33.55,0.15,Indian,Indian
+Rice Kheer (Chawal Ki Kheer),75.03,2.3,10.05,2.97,Indian,Indian
+Makhana Kheer,107.85,3.31,12.88,5.0,Indian,Indian
+Vermicelli Kheer (Semiya/Seviyan Ki Kheer),120.07,3.35,15.87,5.0,Indian,Indian
+Semolina Kheer (Suji/Rava Kheer),113.21,3.43,15.88,4.2,Indian,Indian
+Paneer Kheer,105.31,4.53,10.03,5.37,Indian,Indian
+Cabbage Kheer (Pattagobhi Ki Kheer),83.51,2.87,9.73,3.8,Indian,Indian
+Carrot Kheer (Gajar Ki Kheer),85.35,2.81,10.09,3.85,Indian,Indian
+Cauliflower Kheer (Phoolgobhi Ki Kheer),81.95,3.04,8.78,3.95,Indian,Indian
+Moong Dal Kheer,77.16,2.95,9.89,2.97,Indian,Indian
+Phirni,116.12,3.49,16.11,4.34,Indian,Indian
+Semolina Halwa (Suji Ka Halwa),225.65,2.16,24.67,13.38,Indian,Indian
+Shahi Suji Halwa,382.34,3.48,44.44,21.73,Indian,Indian
+Carrot Halwa (Gajar Ka Halwa),172.64,3.11,18.53,9.73,Indian,Indian
+Egg Halwa (Ande Ka Halwa),299.74,7.85,39.59,13.41,Indian,Indian
+Potato Halwa (Aloo Ka Halwa),151.66,1.53,29.18,3.48,Indian,Indian
+Pumpkin Halwa (Kaddu Ka Halwa),190.27,1.33,27.6,8.81,Indian,Indian
+Moong Dal Halwa,349.8,8.35,40.23,17.68,Indian,Indian
+Caramel Custard (Steamed),121.58,4.97,15.02,4.87,Indian,Indian
+Baked Custard,106.53,5.41,9.45,5.3,Indian,Indian
+Soft Custard (Stirred),109.18,5.01,11.19,5.07,Indian,Indian
+Chocolate Ice Cream,177.7,4.47,15.41,11.25,Indian,Indian
+Mango Ice Cream,125.69,3.4,11.14,7.62,Indian,Indian
+Fruit Ice Cream (Phalon Ka Ice Cream),171.46,4.37,16.05,10.38,Indian,Indian
+Caramel Ice Cream,173.52,4.31,14.81,11.15,Indian,Indian
+Lemon Souffle,168.51,6.95,13.43,10.02,Indian,Indian
+Orange Souffle,168.28,6.8,14.2,9.73,Indian,Indian
+Vanilla Souffle,187.85,7.71,14.78,11.19,Indian,Indian
+Chocolate Souffle,189.32,7.88,14.74,11.36,Indian,Indian
+Pineapple Souffle,196.14,8.06,15.52,11.72,Indian,Indian
+Apple Mousse,106.92,4.21,12.77,4.27,Indian,Indian
+Rich Chocolate Mousse,188.26,7.96,10.84,12.19,Indian,Indian
+Mango Mousse,124.98,3.21,9.14,8.47,Indian,Indian
+Orange And Pineapple Cream,101.18,1.44,11.96,5.43,Indian,Indian
+Charlotte Rousse,188.29,3.95,34.08,4.78,Indian,Indian
+Triffle Pudding,116.97,2.93,18.24,3.93,Indian,Indian
+Snow Flakes Pudding,95.21,4.67,8.07,4.97,Indian,Indian
+Kulfi,98.43,3.21,11.3,4.7,Indian,Indian
+Steamed Orange Pudding,278.03,2.34,41.53,12.04,Indian,Indian
+Meringue And Rice Pudding,112.93,4.84,14.6,4.05,Indian,Indian
+Cheese Pudding,285.01,11.29,19.27,18.37,Indian,Indian
+Chocolate Pudding,211.96,3.55,29.59,9.48,Indian,Indian
+Bread And Butter Pudding,167.94,5.59,19.63,7.88,Indian,Indian
+Queen Of Pudding,132.92,5.51,16.35,5.38,Indian,Indian
+Pineapple Upside Down Pudding,257.73,3.15,35.73,11.91,Indian,Indian
+Date And Nut Pie,322.42,3.93,46.86,13.31,Indian,Indian
+Stewed Apple With Custard,92.87,1.27,18.36,1.82,Indian,Indian
+Apple Snowballs,101.51,0.86,24.58,0.31,Indian,Indian
+Hot Orange Souffle,179.97,6.87,18.77,8.95,Indian,Indian
+Hot Chocolate Souffle,226.09,6.7,26.21,11.1,Indian,Indian
+Hot Vanilla Souffle,192.93,6.87,21.77,9.07,Indian,Indian
+Plain Burfi (Burfi),408.32,9.82,30.88,27.96,Indian,Indian
+Coconut Burfi (Nariyal Ki Burfi),467.64,8.81,32.15,34.63,Indian,Indian
+Bottle Gourd Burfi (Ghiya/Lauki Burfi),275.96,5.86,24.51,17.68,Indian,Indian
+Chocolate Burfi,339.33,13.0,33.15,17.86,Indian,Indian
+Cashewnut Burfi (Kaju Burfi/Kaju Katli),421.74,5.48,37.92,28.46,Indian,Indian
+Gram Flour Burfi (Besan Burfi),421.79,11.19,46.59,22.41,Indian,Indian
+Semolina Ladoo With Khoya (Suji/Rava Aur Khoye Ke Ladoo ),428.71,6.71,52.86,21.86,Indian,Indian
+Semolina Ladoo With Coconut (Suji/Rava Aur Nariyal Ke Ladoo ),464.43,5.68,50.9,27.03,Indian,Indian
+Gram Flour Ladoo (Besan Ladoo),476.91,8.93,62.61,22.76,Indian,Indian
+Sesame Ladoo (Til Ke Ladoo),396.96,10.7,43.5,19.64,Indian,Indian
+Chenna Murki,252.69,10.46,36.01,8.2,Indian,Indian
+Milk Cake,127.41,3.01,9.13,8.93,Indian,Indian
+Ghujia/Lavang Latika,768.98,1.86,13.0,78.93,Indian,Indian
+Gulab Jamun With Khoya,586.06,2.03,26.09,53.23,Indian,Indian
+Mal Pua,566.68,1.71,17.56,54.64,Indian,Indian
+Shahi Tukre,189.81,2.76,41.46,2.54,Indian,Indian
+Potato Pakora/Pakoda (Aloo Pakoda),677.19,1.9,6.04,71.84,Indian,Indian
+Onion Pakora/Pakoda (Pyaaz Ke Pakode),674.61,1.9,5.41,71.84,Indian,Indian
+Cauliflower Pakora/Pakoda (Phoolgobhi Ke Pakode),671.63,1.98,4.52,71.86,Indian,Indian
+Mixed Vegetable Pakora/Pakoda,673.81,1.94,5.12,71.86,Indian,Indian
+Spinach Pakora/Pakoda (Palak Pakoda),712.62,1.96,4.68,76.38,Indian,Indian
+Methi Pakora/Pakoda (Methi Ke Pakode),713.25,2.06,4.68,76.39,Indian,Indian
+Egg Pakora/Pakoda (Ande Ke Pakode),710.51,2.83,4.48,75.86,Indian,Indian
+Bread Pakora/Pakoda,710.99,2.57,8.87,74.2,Indian,Indian
+Paneer Pakora/Pakoda,718.12,3.27,5.52,76.05,Indian,Indian
+Potato Bonda (Aloo Bonda),632.84,1.09,4.53,67.8,Indian,Indian
+Potato Samosa (Aloo Ka Samosa),577.39,1.71,9.21,59.19,Indian,Indian
+Minced Meat Samosa (Keema Ka Samosa),620.99,4.43,6.14,64.26,Indian,Indian
+Paneer And Pea Samosa (Paneer Matar Ka Samosa),623.81,4.02,8.55,63.65,Indian,Indian
+Mathri,805.12,1.75,12.32,83.1,Indian,Indian
+Khasta Kachori,712.73,2.51,12.81,72.27,Indian,Indian
+Vegetable Cutlet,665.45,1.25,4.68,71.33,Indian,Indian
+Flattened Rice Cutlet (Chirwa Cutlet/Chivda Cutlet/Poha Cutlet),701.71,1.76,7.39,73.89,Indian,Indian
+Peanut Cutlet (Mungfali Ke Cutlet),698.77,2.63,5.68,74.0,Indian,Indian
+Fish Cutlet (Machli Ka Cutlet),654.64,2.77,3.13,70.11,Indian,Indian
+Paneer Potato Cutlet (Paneer Aloo Cutlet),672.94,2.47,5.23,71.4,Indian,Indian
+Spinach Chickpeas Cutlet (Palak Channa Dal Cutlet),688.03,1.44,4.93,73.6,Indian,Indian
+Cheese Toast,785.37,1.98,5.49,84.11,Indian,Indian
+Vegetable Burger,519.93,3.26,13.69,50.63,Indian,Indian
+Cheese Pizza,249.5,5.79,30.62,12.43,Indian,Indian
+Vegetable Seekh Kebab,690.73,1.57,5.32,73.72,Indian,Indian
+Masala Vada,826.02,1.69,4.06,89.15,Indian,Indian
+Peanut Sago Vada (Sabudana Mungfali Vada),749.89,1.01,7.14,79.82,Indian,Indian
+Vegeterian Scotch Egg,681.67,2.16,4.64,72.77,Indian,Indian
+Paneer Shaslik/Tikka,93.85,5.11,7.98,4.49,Indian,Indian
+Peanut Brittle (Moongfali Ki Chikki),320.46,6.94,47.46,11.13,Indian,Indian
+Spring Roll,623.87,1.81,8.56,64.63,Indian,Indian
+Dry Mango Chutney (Sookhe Aam Ki Chutney),298.13,2.43,69.17,0.7,Indian,Indian
+Peanut Chutney (Mungfali Ki Chutney),258.37,11.8,9.87,19.06,Indian,Indian
+Coconut Chutney (Nariyal Ki Chutney),265.92,3.59,8.29,25.0,Indian,Indian
+Mint And Coriander Chutney (Pudinay Aur Dhaniye Ki Chutney),102.6,2.81,21.18,0.51,Indian,Indian
+Custard Tart,225.6,3.72,28.66,10.73,Indian,Indian
+Lemon Tart,303.35,6.12,30.68,17.45,Indian,Indian
+Jam Tart,360.72,4.42,46.18,17.35,Indian,Indian
+Orange Cream Tart,197.16,2.58,27.43,8.72,Indian,Indian
+Pineapple Tart,195.4,2.29,28.62,8.21,Indian,Indian
+Cheese And Mushroom Tart,246.1,5.51,21.43,15.28,Indian,Indian
+Cottage Cheese Pie,238.98,7.45,20.66,13.83,Indian,Indian
+Minced Meat Pie,221.55,7.38,18.11,13.04,Indian,Indian
+Apple Cinnamon Pie,258.73,3.35,33.68,12.21,Indian,Indian
+Lemon Meringue Pie,224.43,3.88,35.11,8.16,Indian,Indian
+Chocolate Meringue Pie,214.76,4.98,28.8,9.17,Indian,Indian
+Cream Puffs,221.33,4.7,16.0,15.48,Indian,Indian
+Chocolate Eclairs,239.42,4.24,26.22,13.5,Indian,Indian
+Cheese Balls,681.28,2.21,4.81,72.57,Indian,Indian
+Minced Meat Patties,265.72,6.88,15.25,19.57,Indian,Indian
+Cheese Patties,324.01,7.38,22.23,22.67,Indian,Indian
+Hot Cheese Souffle,177.1,9.18,5.41,13.23,Indian,Indian
+Hot Potato Souffle,125.64,5.51,8.56,7.64,Indian,Indian
+Hot Fish Souffle,142.92,11.23,3.69,9.24,Indian,Indian
+Hot Spinach Souffle,104.25,5.43,4.19,7.24,Indian,Indian
+Plain Cream Cake,353.94,6.18,47.18,16.17,Indian,Indian
+Apple Cake (Seb Ka Cake),290.08,4.94,39.48,12.87,Indian,Indian
+Marble Cake,354.11,6.3,46.88,16.27,Indian,Indian
+Chocolate Cake,335.61,6.01,45.14,15.18,Indian,Indian
+Orange Cake,357.61,6.1,48.28,16.21,Indian,Indian
+Fruit Loaf,324.19,5.36,46.49,13.31,Indian,Indian
+Banana Cake (Kele Ka Cake),389.51,5.77,40.0,23.31,Indian,Indian
+Chocolate Chiffon Cake,311.71,5.76,37.87,15.8,Indian,Indian
+Christmas Cake,372.95,5.49,48.29,16.88,Indian,Indian
+Strawberry And Vanilla Cake With Butter Icing,370.54,3.89,44.25,20.39,Indian,Indian
+Eggless Cake,318.08,8.12,46.14,11.75,Indian,Indian
+Swiss Roll,251.87,7.3,48.34,3.77,Indian,Indian
+Pineapple Pastry,208.21,6.06,29.04,7.87,Indian,Indian
+Black Forest Pastry,233.55,6.09,34.48,8.46,Indian,Indian
+Coconut Finger,274.86,7.09,42.56,8.86,Indian,Indian
+Pineapple Cake,195.57,5.01,23.51,9.34,Indian,Indian
+Chocolate Walnut Cookies (Chocolate Aur Akhrot Ke Cookies),424.8,6.56,47.1,23.62,Indian,Indian
+Chocolate Chip Cookies,425.29,5.79,57.98,19.38,Indian,Indian
+Sweet Plain Biscuit,380.76,5.86,50.29,17.67,Indian,Indian
+Chocolate Biscuit,379.76,5.88,51.56,17.09,Indian,Indian
+Coconut Biscuit (Nariyal Ke Biscuit),434.98,5.78,42.9,27.16,Indian,Indian
+Sweet And Salty Biscuit (Meethay Aur Namkeen Biscuit),407.96,6.15,45.09,22.39,Indian,Indian
+Peanut Biscuit,401.05,8.45,46.72,20.41,Indian,Indian
+Pin Wheel Biscuit,404.6,5.4,54.56,18.66,Indian,Indian
+Saffron Biscuit (Kesar Biscuit),458.61,6.05,59.7,22.01,Indian,Indian
+Masala Biscuit,393.64,6.06,45.18,20.75,Indian,Indian
+Ice Box Cookies,374.24,5.7,56.09,14.44,Indian,Indian
+Ginger Bread Man,365.0,6.61,60.26,11.01,Indian,Indian
+Danish Cookies,475.33,5.33,58.0,24.92,Indian,Indian
+Short Bread Cookies,443.09,6.03,64.82,17.98,Indian,Indian
+Coffee Biscuit,416.57,6.9,46.55,23.0,Indian,Indian
+Melting Moments,437.91,5.71,55.84,21.78,Indian,Indian
+Ginger Biscuit (Adarak Ke Biscuit),417.91,5.98,58.44,18.31,Indian,Indian
+Soyabean Muthias,839.33,2.46,3.7,90.45,Indian,Indian
+Soyabean Tikki,698.17,3.53,4.39,74.02,Indian,Indian
+Soyabean Namak Paras,838.46,2.65,4.65,89.83,Indian,Indian
+Peanut Burfi (Moongfali Ki Burfi),550.99,9.31,48.14,36.84,Indian,Indian
+Spinach Peanut Namak Paras (Palak Moongfali Namak Paras),740.16,1.65,6.62,78.51,Indian,Indian
+Gram Flour And Semolina Chilla/Cheela/Savory Pancake (Besan Suji Chilla/Cheela),758.89,2.08,7.63,80.04,Indian,Indian
+Rice Moong Dal Cheela (Chawal Aur Moong Dal Ka Cheela),798.26,2.74,11.13,82.44,Indian,Indian
+Split Bengal Gram Sweet Rice (Channa Dal Sweet Rice),190.21,4.15,41.07,0.64,Indian,Indian
+Sweet Poori (Meethi Poori),782.75,2.12,14.26,79.63,Indian,Indian
+Wheat Flour And Moong Dal Burfi (Atta Aur Moong Dal Ki Burfi),441.08,9.84,60.0,18.41,Indian,Indian
+Spinach Burfi (Palak Burfi),121.17,2.71,12.76,6.81,Indian,Indian
+Sweet Split Chickpea Roti (Sweet Channa Dal Roti/Puranpoli),366.59,9.51,62.66,7.93,Indian,Indian
+Sprouted Moong Daliya,111.56,2.81,14.77,4.71,Indian,Indian
+Sprouted Moong Poha,192.6,5.59,26.6,6.89,Indian,Indian
+Pearl Millet Ladoo (Bajra Ladoo),319.66,9.61,50.98,8.06,Indian,Indian
+Paushtik Ladoo,485.87,7.65,60.34,24.98,Indian,Indian
+Paushtik Roti,149.26,7.17,26.59,1.51,Indian,Indian
+Semolina Carrot Vada (Suji Gajar Vada),699.53,1.56,6.52,74.07,Indian,Indian
+Dhokla,216.49,13.45,30.68,5.28,Indian,Indian
+Kashmiri Tea (Kehwa),24.9,0.17,5.23,0.51,Indian,Indian
+Steeped Hot Coffee,15.91,0.39,3.01,0.33,Indian,Indian
+Hot Chocolate,90.01,3.43,9.02,4.61,Indian,Indian
+Cold Coffee (With Cream),82.76,1.93,11.98,3.29,Indian,Indian
+Banana Milkshake With Ice Cream (Kele Ka Milkshake Ice Cream Ke Saath),76.45,2.01,11.15,2.77,Indian,Indian
+Flavoured Milkshake,66.78,2.06,8.65,2.83,Indian,Indian
+Jal Jeera,30.24,0.44,6.7,0.26,Indian,Indian
+Gingo,48.02,0.14,12.42,0.06,Indian,Indian
+Mintade,40.32,0.03,10.59,0.02,Indian,Indian
+Canjee,6.61,0.24,0.44,0.42,Indian,Indian
+Cauliflower Canjee (Phoolgobhi Ki Canjee),6.9,0.39,0.35,0.42,Indian,Indian
+Potato Canjee (Aloo Canjee),16.26,0.44,2.69,0.39,Indian,Indian
+Vermicelli Porridge (Semiya/Seviyan Porridge),78.4,2.5,10.56,2.98,Indian,Indian
+Semolina Upma (Suji/Rava Upma),147.89,3.3,16.31,7.49,Indian,Indian
+Vermicelli Upma (Semiya/Seviyan Upma),149.11,3.11,16.88,7.45,Indian,Indian
+Rice Upma,151.27,2.63,17.96,7.46,Indian,Indian
+Bread Upma,129.51,2.8,12.6,7.75,Indian,Indian
+Vegetable Upma,146.47,4.73,16.46,6.63,Indian,Indian
+Poha,294.53,6.09,35.05,14.14,Indian,Indian
+Vegetable Poha,180.52,4.89,21.52,8.07,Indian,Indian
+Moong Dal Stuffed Cheela/Chilla (Moong Dal Ka Cheela/Chilla),154.89,6.97,19.42,5.11,Indian,Indian
+Paneer Stuffed Cheela/Chilla,205.19,11.44,19.16,8.89,Indian,Indian
+Indian Style Egg Bhujia (Anda Bhujia (Indian Style)),102.83,6.1,3.76,7.02,Indian,Indian
+French Omelette/Omlet,211.04,10.03,0.41,18.86,Indian,Indian
+Puffy Omelette/Omlet,188.15,8.82,0.08,16.84,Indian,Indian
+Orange Omelette/Omlet,194.66,8.93,1.68,16.84,Indian,Indian
+Cheese And Mushroom Omelette/Omlet,205.63,9.69,1.68,17.82,Indian,Indian
+Spanish Omelette/Omlet,157.45,8.25,5.1,11.44,Indian,Indian
+Mixed Stock,25.19,2.06,0.33,1.71,Indian,Indian
+Meat Stock,24.48,2.1,0.0,1.78,Indian,Indian
+White Stock,6.99,0.07,0.4,0.56,Indian,Indian
+Meat Consomme (With Mutton),29.76,14.86,0.51,13.68,Indian,Indian
+Consomme Au Julienne,27.76,12.49,1.49,10.66,Indian,Indian
+Consomme Au Vermicelli,29.94,15.23,1.3,12.98,Indian,Indian
+Green Pea Soup (Matar Ka Soup),39.81,11.06,3.63,12.9,Indian,Indian
+Spinach Soup (Palak Ka Soup),32.59,10.54,3.03,14.26,Indian,Indian
+Mixed Vegetable Soup,35.71,8.22,2.95,11.66,Indian,Indian
+Cheese Soup,41.13,12.39,1.87,17.07,Indian,Indian
+Mulligatawny Soup,54.42,11.26,8.24,13.28,Indian,Indian
+Cream Of Carrot Soup,59.77,8.27,5.69,12.35,Indian,Indian
+Cream Of Broccoli Soup,56.14,8.97,3.72,12.75,Indian,Indian
+Cream Of Potato Soup,60.2,8.1,6.14,12.05,Indian,Indian
+Almond Soup (Badam Ka Soup),78.65,10.13,3.68,13.8,Indian,Indian
+Cold Cucumber Cream Soup,11.88,0.34,1.76,0.34,Indian,Indian
+Cold Tomato Soup,16.9,0.11,0.59,1.56,Indian,Indian
+Chicken Stew,127.55,7.19,4.44,8.91,Indian,Indian
+Veg Paneer Stew,145.55,6.98,10.22,8.41,Indian,Indian
+Onion-Green Chilli Parantha/Paratha (Pyaaz Aur Hari Mirch Ka Parantha/Paratha),191.27,4.37,26.37,7.27,Indian,Indian
+Methi Parantha/Paratha,148.36,4.27,22.19,4.34,Indian,Indian
+Bathua Poori,598.79,2.35,13.85,59.14,Indian,Indian
+Gram Flour Poori (Besan Poori),697.66,2.59,10.93,71.51,Indian,Indian
+Beetroot Poori (Chukandar Ki Poori),527.66,1.91,12.29,52.18,Indian,Indian
+Peas Poori (Matar Ki Poori),592.83,3.04,14.92,57.69,Indian,Indian
+Peas Kachori (Matar Kachori),584.68,3.21,13.25,57.51,Indian,Indian
+Pizza,146.77,6.85,9.94,8.72,Indian,Indian
+Bacon And Mushroom Pancake,157.67,6.82,8.47,10.6,Indian,Indian
+Cheese And Tomato Pancake,147.39,5.15,10.66,9.28,Indian,Indian
+Minced Meat Pancake (With Chicken),116.04,12.01,8.18,10.48,Indian,Indian
+Eggplant/Brinjal Rice (Vangi Bhat),184.8,5.28,31.74,3.67,Indian,Indian
+Kashmiri 'Tahar',98.21,1.95,19.11,1.37,Indian,Indian
+Cumin Pulao (Jeera/Zeera Pulao),135.24,2.47,23.61,3.2,Indian,Indian
+Peas Pulao (Matar Pulao),108.87,3.89,18.42,1.9,Indian,Indian
+Split Bengal Gram Dal And Vegetable Pulao (Channa Dal And Vegetable Pulao),116.53,3.6,19.72,2.3,Indian,Indian
+Black Channa Pulao/ Bengal Gram Pulao (Kale Chane Ka Pulao),125.51,3.44,21.55,2.58,Indian,Indian
+Mutton Pulao,130.77,6.52,11.26,10.78,Indian,Indian
+Chicken Pulao,108.24,6.07,11.17,8.48,Indian,Indian
+Mexican Rice,120.57,4.62,14.21,4.88,Indian,Indian
+Plain Khitchdi (Plain Khichri/Khichdi),57.03,1.72,10.04,1.01,Indian,Indian
+Instant Idli (With Semolina),247.29,9.16,43.4,3.61,Indian,Indian
+Plain Dosa,380.91,10.34,64.08,8.43,Indian,Indian
+Masala Dosa Mixed Vegetable Fillings,144.53,4.84,23.02,3.26,Indian,Indian
+Masala Dosa Paneer Fillings,243.12,10.31,29.76,8.84,Indian,Indian
+Uttapam,255.95,6.18,36.28,9.03,Indian,Indian
+Appam,267.7,3.12,13.28,22.63,Indian,Indian
+Beans And Macaroni,136.08,4.58,14.24,7.01,Indian,Indian
+Spaghetti Bolognese,97.43,9.35,10.04,9.51,Indian,Indian
+Meat And Macaroni Casserole,161.55,9.15,16.12,10.17,Indian,Indian
+Spaghetti With Meat Balls And Tomato Sauce,158.13,5.61,10.46,10.64,Indian,Indian
+Spaghetti With Paneer Balls And Tomato Sauce,158.54,3.95,12.72,10.44,Indian,Indian
+Lasagne With Meat Sauce,63.38,2.9,5.38,3.43,Indian,Indian
+Lasagne With Vegetables,49.23,1.71,5.9,2.16,Indian,Indian
+Home Made Egg Noodles,240.84,6.55,42.92,4.37,Indian,Indian
+Sour Lentils (Khatti Dal),34.79,2.22,6.04,0.12,Indian,Indian
+Urad Special Dehusked,69.43,3.14,8.86,2.17,Indian,Indian
+Arhar With Spinach (Arhar Dal Aur Palak),52.84,2.05,4.77,2.76,Indian,Indian
+Moong Dal With Vadi,24.08,0.4,1.0,2.05,Indian,Indian
+Rasam With Tamarind (Puli Rasam/ Chintapandu Rasam/ Charu/Saaru),26.74,1.13,3.37,0.88,Indian,Indian
+Rasam With Lemon (Nimmakaya Rasam/Nimmakaya Charu/Elumichai Rasam/Nimbe Hannina Saaru),24.41,1.11,2.85,0.87,Indian,Indian
+Green Gram Whole With Baghar (Sabut Moong Dal With Tadka),63.43,3.23,6.8,2.48,Indian,Indian
+Urad Sabut Special,79.39,2.33,5.03,5.46,Indian,Indian
+Kabuli Channa Curry,68.57,2.92,7.63,3.06,Indian,Indian
+Besan Gatte Curry,189.38,7.75,16.26,10.72,Indian,Indian
+Dry Masala Chops,135.07,9.08,3.3,9.54,Indian,Indian
+Mutton Korma,115.64,7.09,2.53,8.54,Indian,Indian
+Shahi Keema Kofta Curry,418.13,4.14,1.73,43.83,Indian,Indian
+Minced Meat Ball Curry,109.79,6.82,2.86,7.85,Indian,Indian
+Boti Kebab,132.86,9.22,3.06,9.27,Indian,Indian
+Mutton Seekh Kebab,133.94,11.25,3.11,8.43,Indian,Indian
+Indian Lamb And Egg Curry (Nargisi Kofta),335.75,3.84,2.07,34.7,Indian,Indian
+Soya Chunks Sweet And Sour (Nutrinugget Sweet And Sour),500.94,2.85,3.27,55.99,Indian,Indian
+Soya Chunks Korma (Nutrinugget Korma),131.43,3.86,7.67,9.5,Indian,Indian
+Mushroom Matar,70.77,2.79,5.33,4.11,Indian,Indian
+Soya Chunks And Peas (Nutrinugget Matar),82.62,3.03,5.82,5.11,Indian,Indian
+Vegetable Yakhni,406.06,1.18,1.94,43.8,Indian,Indian
+Spinach Mushroom (Palak Mushroom),47.63,1.94,2.95,2.96,Indian,Indian
+Vegetarian Nargisi Kofta Curry,332.15,2.29,6.58,32.94,Indian,Indian
+Roast Chicken,199.9,20.49,0.1,13.06,Indian,Indian
+Shahi Chicken Masala,163.7,9.82,4.07,12.02,Indian,Indian
+Tomato Chicken,111.68,10.57,2.13,6.71,Indian,Indian
+Creamy Chicken,152.87,13.52,3.13,9.57,Indian,Indian
+Broccoli Chicken Ala King,119.56,7.97,5.34,7.57,Indian,Indian
+Ginger Chicken,129.17,8.24,5.6,8.24,Indian,Indian
+Chicken Sweet And Sour,445.09,6.92,2.67,47.59,Indian,Indian
+Chicken Korma,147.96,9.83,5.43,9.67,Indian,Indian
+Bengal Fish Curry (Bengali Machli Curry),109.43,7.26,4.42,7.03,Indian,Indian
+Fish Finger,542.9,5.66,4.47,55.82,Indian,Indian
+Fish In Coconut Milk (Nariyal Ke Doodh Ke Saath Machli),86.21,8.66,2.73,4.43,Indian,Indian
+Prawn Curry (With Coconut) (Jhinga Curry),109.55,8.54,3.1,6.93,Indian,Indian
+Baked Stuffed Fish,121.96,16.14,2.12,5.43,Indian,Indian
+Fish Pie,120.9,9.25,7.74,5.77,Indian,Indian
+Crispy Baked Fish,138.4,10.95,9.59,6.41,Indian,Indian
+Fish Souffle,139.71,10.51,5.14,8.55,Indian,Indian
+Potato Curry (Aloo Ki Sabzi),89.56,1.52,10.42,4.47,Indian,Indian
+Egg Curry (Anda Curry),117.52,5.38,4.03,8.81,Indian,Indian
+Vegetable Curry With Coconut,83.07,2.77,7.19,4.66,Indian,Indian
+Curd With Potatoes (Dahi Aloo),59.9,1.56,7.15,2.72,Indian,Indian
+Potato Kofta Curry (Aloo Kofta Curry),455.4,0.56,2.78,49.08,Indian,Indian
+Yam Kofta Curry (Zimikand/Suran Kofta Curry),322.88,0.71,3.75,33.84,Indian,Indian
+Jackfruit Kofta Curry (Kathal Ka Kofta Curry),321.08,0.8,3.17,33.83,Indian,Indian
+Spinach And Potato (Palak Aloo),57.17,1.63,5.91,2.82,Indian,Indian
+Mooli Bhujia,91.2,1.69,4.74,7.25,Indian,Indian
+Bathua Bhujia,90.9,2.26,3.63,7.29,Indian,Indian
+Cabbage Rolls (Dry) ((Pattagobhi Rolls) (Dry)),142.48,8.21,6.09,9.36,Indian,Indian
+Cabbage Rolls (Curry) ((Pattagobhi Rolls)(Curry)),124.63,5.76,7.03,8.17,Indian,Indian
+Dry Arbi (Sookhi Arbi),134.95,2.12,11.11,8.97,Indian,Indian
+Masala Arbi,185.38,3.01,16.16,11.9,Indian,Indian
+Peas Brinjal Bhartha (Matar Baingan Bhartha),84.55,2.05,5.02,6.05,Indian,Indian
+Okra/Lady'S Fingers Fry (Bhindi Sabzi/Sabji/Subji),110.81,1.83,4.5,9.27,Indian,Indian
+Crispy Okra/Crispy Lady'S Fingers (Karare Bhindi),657.76,1.91,4.35,70.4,Indian,Indian
+Beans Foogath,105.06,2.03,3.26,9.22,Indian,Indian
+Stuffed Bittergourd (Wet) (Bharwa Karele),162.36,1.36,4.68,15.24,Indian,Indian
+Jackfruit/Kathal (Dry),488.97,0.93,4.56,51.78,Indian,Indian
+Yam Fried (Zimikand/Suran Fried),491.76,0.79,5.47,51.79,Indian,Indian
+"Cauliflower, Pea And Potato Bhujia (Phoolgobhi, Matar Aur Aloo Bhujia)",95.67,2.75,8.23,5.54,Indian,Indian
+Vegetable Jalfrezi,68.48,1.4,5.43,4.38,Indian,Indian
+Vegetables Stir Fry,30.78,1.04,3.19,1.47,Indian,Indian
+Broccoli Delight,40.7,2.49,2.34,2.48,Indian,Indian
+Dhansak (Vegetarian),82.8,3.32,7.28,4.18,Indian,Indian
+Cauliflower Basket,90.95,5.21,3.97,5.88,Indian,Indian
+Stuffed Bottle Gourd (Stuffed Ghiya/Lauki),93.19,5.84,4.36,5.8,Indian,Indian
+Ducheese Potato,140.54,3.6,10.94,9.01,Indian,Indian
+Roast Potatoes,87.32,1.53,14.52,2.35,Indian,Indian
+Stuffed Baked Potatoes,100.2,3.82,11.03,4.39,Indian,Indian
+Potato Nests,111.62,5.71,11.05,4.77,Indian,Indian
+Parsley Potato,119.51,1.49,13.81,6.28,Indian,Indian
+Creamed Spinach And Mushroom,419.62,2.28,3.17,44.14,Indian,Indian
+Fricassee Of Mushroom,106.66,3.65,8.13,6.63,Indian,Indian
+Cauliflower Au Gratin,145.9,4.45,9.13,10.2,Indian,Indian
+Vegetable And Cheese Pie,126.88,4.03,8.76,8.28,Indian,Indian
+Spinach Souffle,150.18,7.36,6.27,10.52,Indian,Indian
+Beetroot And Egg Salad (Chukandar Aur Ande Ka Salad),84.92,3.36,3.4,6.45,Indian,Indian
+Sour Cream Potato Salad,121.9,2.89,9.05,8.13,Indian,Indian
+Tossed Green Salad,49.88,1.33,3.82,3.24,Indian,Indian
+Spring Basket Salad,160.46,3.36,11.61,11.3,Indian,Indian
+Cucumber And Yogurt Salad (Kheere Aur Dahi Ka Salad),36.13,2.09,4.72,0.93,Indian,Indian
+Chicken And Tomato Towers,100.55,6.9,2.36,6.99,Indian,Indian
+Jellied Sunshine Fruit Salad,48.86,5.85,4.21,0.85,Indian,Indian
+Tomato Aspic,50.37,6.87,5.02,0.26,Indian,Indian
+Frozen Frosty Fruit Salad (Phalon Ka Salaad),103.51,1.68,15.61,4.17,Indian,Indian
+French Dressing,733.77,0.32,3.68,79.65,Indian,Indian
+Mayonnaise Without Eggs,329.05,2.13,3.98,33.84,Indian,Indian
+Curd Dressing,78.8,5.59,8.03,2.9,Indian,Indian
+Carrot Raita (Gajar Ka Raita),64.78,4.14,7.19,2.19,Indian,Indian
+Pumpkin Raita (Kaddu Ka Raita),55.6,3.74,6.02,1.88,Indian,Indian
+Mint And Peanut Raita (Pudinay Aur Moongfali Ka Raita),112.05,7.05,7.31,6.19,Indian,Indian
+Spinach Raita (Palak Ka Raita),52.75,3.95,5.06,1.86,Indian,Indian
+Bathua Raita,54.4,4.13,5.31,1.76,Indian,Indian
+Pineapple Raita (Ananas Ka Raita),67.74,3.9,8.62,2.02,Indian,Indian
+Banana Raita (Kele Ka Raita),89.03,4.13,13.51,2.07,Indian,Indian
+Mango Raita (Aam Ka Raita),67.37,3.9,8.23,2.14,Indian,Indian
+Guava Raita (Amarood Ka Raita),64.36,4.19,7.27,2.07,Indian,Indian
+Grapes Raita (Angoor Ka Raita),72.59,3.98,9.66,2.07,Indian,Indian
+Bottle Gourd Kheer (Ghiya/Lauki Kheer),84.07,2.7,10.0,3.86,Indian,Indian
+Pumpkin Kheer (Kaddu Ki Kheer),86.35,2.76,10.44,3.86,Indian,Indian
+Apple Kheer (Seb Ki Kheer),81.3,2.14,11.34,3.18,Indian,Indian
+Caramel Custard (Baked),122.7,5.11,14.95,5.01,Indian,Indian
+Vanilla Ice Cream Without Egg,228.67,2.69,14.21,18.15,Indian,Indian
+Vanilla Ice Cream With Egg,214.85,4.16,11.71,17.02,Indian,Indian
+Strawberry Ice Cream,215.61,4.15,12.26,16.96,Indian,Indian
+Chocochip Ice Cream,241.45,4.23,16.75,17.93,Indian,Indian
+Choconut Ice Cream,273.96,5.04,23.13,18.49,Indian,Indian
+Pear Chocholate Sunday,183.49,2.08,15.02,13.11,Indian,Indian
+Chocolate Sauce,263.2,1.91,43.21,10.39,Indian,Indian
+Coffee Ice Cream,150.62,3.15,14.09,9.43,Indian,Indian
+Coffee Pear Alaska,203.99,2.88,19.36,13.22,Indian,Indian
+Crunchy Butterscotch,277.32,3.11,19.92,20.99,Indian,Indian
+Peach Melba Ice Cream,200.85,2.06,16.31,14.51,Indian,Indian
+Vanilla Ice Cream With Apples In Hot Cherry Sauce,196.32,1.73,22.75,11.45,Indian,Indian
+Grape And Orange Whip,57.39,1.41,6.72,2.62,Indian,Indian
+Honey Banana Cream,125.49,2.78,13.64,6.68,Indian,Indian
+Raspberry Bavarian Cream,150.1,3.34,17.82,7.88,Indian,Indian
+Fruit Delight,107.09,2.09,9.11,7.09,Indian,Indian
+Creamy Chocolate Mousse,230.52,6.85,9.53,18.16,Indian,Indian
+Cold Lemon Souffle,169.87,5.89,15.62,9.78,Indian,Indian
+Cold Orange Souffle,173.19,5.94,16.27,9.82,Indian,Indian
+Cold Pineapple Souffle,181.22,6.23,16.85,10.39,Indian,Indian
+Cold Vanilla Souffle,179.54,6.22,16.29,10.32,Indian,Indian
+Cold Chocolate Souffle,187.53,6.37,17.22,10.86,Indian,Indian
+Stewed Fruit (With Pear),74.32,0.25,18.22,0.32,Indian,Indian
+Apricot Fool,240.79,1.54,33.64,11.35,Indian,Indian
+Pavlova,200.6,1.84,21.84,12.29,Indian,Indian
+Apple Crumb Pudding,220.85,1.54,35.17,8.87,Indian,Indian
+Steamed Cake With Chocolate Sauce,301.91,4.49,29.06,19.01,Indian,Indian
+Hot Lemon Souffle,155.25,5.29,16.31,7.93,Indian,Indian
+Gulab Jamun With Milk Powder,471.15,0.85,28.24,40.15,Indian,Indian
+Chum Chum,130.05,1.52,28.27,1.92,Indian,Indian
+Dil Bahar,130.05,1.52,28.27,1.92,Indian,Indian
+Rasbhari,130.05,1.52,28.27,1.92,Indian,Indian
+Rajbogh,133.7,1.71,28.16,2.28,Indian,Indian
+Rasgulla,118.64,1.38,25.79,1.75,Indian,Indian
+Rasmalai,135.55,1.61,29.17,2.11,Indian,Indian
+Khoa Coconut Burfi,411.45,9.98,36.55,26.01,Indian,Indian
+Danedar Burfi,102.68,3.24,12.33,4.72,Indian,Indian
+Semolina Burfi (Suji/Rava Burfi),348.67,3.47,47.1,16.86,Indian,Indian
+Pumpkin Coconut Burfi (Kaddu Aur Nariyal Ki Burfi),186.18,1.75,17.02,12.66,Indian,Indian
+Khoa Ladoo,396.02,12.21,34.43,24.09,Indian,Indian
+Wheat And Gram Flour Ladoo (Atta Besan Ladoo),501.7,9.38,50.5,29.86,Indian,Indian
+Semolina Ladoo With Nuts (Suji/Rava Ladoo With Nuts),441.84,5.44,48.02,25.45,Indian,Indian
+Sesame Chickpeas Brittle (Til Aur Channe Ki Chikki),282.74,8.5,50.49,4.66,Indian,Indian
+Murmura Chikki,253.82,2.12,59.59,0.32,Indian,Indian
+Masala Onion Pakora/Pakoda (Pyaaz Ke Pakode),551.64,2.05,6.48,57.61,Indian,Indian
+Masala Green Chilli Pakora/Pakoda (Hari Mirch Kay Pakode),668.76,2.22,5.55,71.01,Indian,Indian
+Chicken Pakora/Pakoda,590.09,6.03,4.55,60.98,Indian,Indian
+Fish Pakora/Pakoda,577.03,5.97,4.55,59.52,Indian,Indian
+Paneer Cutlet,672.2,4.59,7.62,69.38,Indian,Indian
+Sago Cutlet/Vadas (Sabudana Cutlet/Vadas),558.76,0.56,11.23,56.97,Indian,Indian
+Poshtik Cutlet,496.45,2.0,7.39,50.94,Indian,Indian
+Egg Cutlet (Anda Cutlet),575.02,2.45,5.77,60.25,Indian,Indian
+Minced Meat Cutlet,531.86,5.1,5.61,54.47,Indian,Indian
+Vegetable Samosa,443.11,2.21,13.22,42.22,Indian,Indian
+Plain Urad Dal Vada (Uzunne Vada/Minapa Garelu/Ulundu Vadai/Medu Vada),745.5,4.39,9.7,76.32,Indian,Indian
+Masala Urad Dal Vada,703.78,4.32,9.93,71.62,Indian,Indian
+Khaman (Dhokla),54.73,1.92,5.36,2.8,Indian,Indian
+Instant Dhokla,207.11,7.66,24.11,9.37,Indian,Indian
+Tomato Ginger Chutney (Tamatar Adarak Ki Chutney),44.66,1.05,9.11,0.32,Indian,Indian
+Mint Tomato Chutney (Pudinay Aur Tamatar Ki Chutney),43.65,1.53,8.22,0.36,Indian,Indian
+Coriander Chutney (Hare Dhaniye Ki Chutney),42.86,1.38,8.16,0.37,Indian,Indian
+Gooseberry Chutney (Amla Chutney),43.02,1.44,8.83,0.62,Indian,Indian
+Walnut Chutney (Akhrot Ki Chutney),370.43,9.44,8.91,33.46,Indian,Indian
+Saunth/Sonth Chutney With Ginger,84.22,0.28,20.62,0.11,Indian,Indian
+Gun Powder Chutney,312.34,21.55,47.65,2.67,Indian,Indian
+Dessicated Coconut Chutney (Sookhe Kase Nariyal Ki Chutney),346.36,12.88,36.72,15.88,Indian,Indian
+Curd Mint Dip,76.13,4.82,9.11,2.44,Indian,Indian
+Curd Vegetable Dip,56.21,3.88,6.04,1.94,Indian,Indian
+Mayonnaise Vegetable Dip,241.27,3.01,4.8,23.44,Indian,Indian
+Tomato And Cucumber Sandwich (Tamatar Aur Kheere Ka Sandwich),150.68,4.03,20.51,6.31,Indian,Indian
+Tomato Sandwich (Grilled),189.92,6.26,21.29,9.39,Indian,Indian
+French Sandwich (Toasted),186.75,6.82,14.82,11.51,Indian,Indian
+Peanut Butter Cucumber Sandwich,243.33,9.04,29.76,10.56,Indian,Indian
+Mint And Peanut Sandwich,273.59,7.18,31.83,13.88,Indian,Indian
+Spicy Chutney Sandwich,249.58,8.74,34.03,9.58,Indian,Indian
+Chicken Walnut Sandwich (Chicken Aur Akhrot Ke Sandwich),285.78,12.58,22.62,16.77,Indian,Indian
+Rolled Sandwich,293.07,6.45,34.69,15.29,Indian,Indian
+Ribbon Sandwich,239.26,6.26,24.76,13.37,Indian,Indian
+Checker Board Sandwich,348.37,7.37,25.94,24.65,Indian,Indian
+Submarine Sandwich,216.92,6.09,13.6,15.32,Indian,Indian
+Cheese Open Sandwich,274.07,9.84,28.42,14.24,Indian,Indian
+Sunset And Sunrise Open Sandwich,241.31,8.58,18.89,15.14,Indian,Indian
+Danish Luncheon Sandwich,193.82,9.03,17.77,10.1,Indian,Indian
+Chicken And Corn Open Sandwich,188.16,8.63,19.21,8.83,Indian,Indian
+Chocolate Sponge Cake,239.86,9.13,39.54,5.51,Indian,Indian
+Chocolate Swiss Roll,306.08,6.01,26.97,19.76,Indian,Indian
+Lemon Curd Filling,225.62,3.43,26.41,12.58,Indian,Indian
+Jam Filling,184.62,0.0,46.15,0.0,Indian,Indian
+Chocolate Pastry,243.37,7.05,32.24,10.12,Indian,Indian
+Assorted Pastry,230.74,6.78,31.99,8.91,Indian,Indian
+Orange Gateau,178.05,4.78,27.01,6.02,Indian,Indian
+Black Forest Gateau,217.82,5.94,30.57,8.58,Indian,Indian
+Lemon Cake,373.85,5.29,43.1,20.63,Indian,Indian
+Dundee Cake,396.62,7.78,41.4,22.7,Indian,Indian
+Victorian Sandwich Cake,373.09,5.18,44.74,19.83,Indian,Indian
+Chocolate Eggless Cake,312.01,6.66,43.45,13.19,Indian,Indian
+Orange Eggless Cake,355.62,7.16,52.65,13.82,Indian,Indian
+Chocolate Glace Icing,436.29,3.22,62.43,20.8,Indian,Indian
+Butter Icing,500.72,0.19,71.64,25.37,Indian,Indian
+Chocolate Butter Icing,469.59,3.21,61.72,24.77,Indian,Indian
+Almond Biscuit (Badam Ke Biscuit),407.74,6.25,52.14,19.7,Indian,Indian
+Orange Biscuit,354.78,3.63,62.11,11.01,Indian,Indian
+Gingerman Biscuit,357.43,6.26,55.24,12.73,Indian,Indian
+Coffee Drops,443.07,7.57,43.06,27.16,Indian,Indian
+Christmas Biscuit,406.07,5.67,60.97,15.88,Indian,Indian
+Christmas Wreath Biscuit,386.05,5.43,58.07,15.01,Indian,Indian
+Christmas Bell Biscuit,404.85,5.66,60.79,15.84,Indian,Indian
+Christmas Star Biscuit,392.03,3.54,74.54,10.04,Indian,Indian
+Christmas Tree Biscuit,385.63,5.43,58.41,15.0,Indian,Indian
+Chocolate Cream Shells,427.17,5.1,59.26,19.34,Indian,Indian
+Jelly Biscuit,404.61,4.23,55.24,19.33,Indian,Indian
+Cherry And Walnut Cookies,422.6,5.63,59.35,18.75,Indian,Indian
+Cheese Straws,382.0,9.83,30.61,24.28,Indian,Indian
+Butterfly Biscuit,341.45,9.98,25.33,22.11,Indian,Indian
+Flan Pastry,445.8,6.72,47.84,25.04,Indian,Indian
+Fruit Flan,261.35,3.3,34.71,12.48,Indian,Indian
+Orange Cream Flan,280.28,4.73,36.16,13.59,Indian,Indian
+Fruit Puree Tart,286.5,3.35,30.42,16.83,Indian,Indian
+Apple Banana Pie,243.99,3.13,32.12,11.39,Indian,Indian
+Lemon Chiffon Pie,259.31,4.88,27.63,14.52,Indian,Indian
+Orange Chiffon Pie,207.57,3.89,23.14,11.16,Indian,Indian
+Cream Buns,215.74,4.45,14.16,15.81,Indian,Indian
+Savoury Puffs,190.79,9.51,10.8,15.24,Indian,Indian
+Choux Swans,216.34,4.35,14.92,15.6,Indian,Indian
+Potato Aigrettes,530.03,2.35,8.01,54.24,Indian,Indian
+Cream Horns,408.23,3.42,23.12,33.55,Indian,Indian
+Savoury Cheese Horns,295.15,5.66,21.38,20.71,Indian,Indian
+Paneer Patties,338.58,7.6,22.79,23.96,Indian,Indian
+Vegetable Patties,261.92,4.01,20.98,17.74,Indian,Indian
+Pearl Millet Infant Food (Bajra Shishu Aahaar),362.44,11.98,62.1,6.62,Indian,Indian
+Sajina,345.26,10.81,66.87,3.03,Indian,Indian
+Cereal Mix,120.81,3.32,21.84,2.02,Indian,Indian
+Pulse Mix,83.29,3.16,16.0,0.54,Indian,Indian
+Shishu Ahar,93.37,2.61,17.42,1.43,Indian,Indian
+Cereal Pulse Mix With Amylase Rice Flour,151.57,4.27,27.8,2.74,Indian,Indian
+Banana Groundnut Paste/Puree,213.19,4.27,36.15,5.45,Indian,Indian
+Rice Dal Porridge (Chawal Dal Ki Khichdi/Khichri),383.33,10.8,65.04,8.33,Indian,Indian
+Lentils And Semolina Porridge (Dal Suji Porridge/Daliya),117.29,3.26,23.19,1.06,Indian,Indian
+Spinach Khichri (Palak Khichri/Khichdi),102.18,3.43,17.35,1.91,Indian,Indian
+Vegetable Mix,174.21,4.7,36.02,0.94,Indian,Indian
+Lentils And Wheat Porridge (Dal Wheat Porridge/Daliya ),52.54,2.71,8.36,0.94,Indian,Indian
+Maize Porridge,89.57,2.14,15.64,1.89,Indian,Indian
+Spinach Peanut Burfi (Palak Aur Mungfali Ki Burfi),105.37,3.36,13.59,4.39,Indian,Indian
+Split Bengal Gram Burfi/Fudge (Channa Dal Burfi),287.36,4.65,54.63,7.09,Indian,Indian
+Chickpea Flour Cookies (Sweet Besan Rounds/Cookies),207.01,4.29,39.64,3.42,Indian,Indian
+Pearl Millet Mathri (Bajra Mathri),785.08,1.82,7.42,83.12,Indian,Indian
+Sesame Biscuit (Til Ke Biscuit),424.03,8.27,53.65,19.34,Indian,Indian
+Fermented Bengal Gram Vada (Khameerikrit/Ufna Hua Channa Dal Ka Vada),657.57,4.05,8.68,67.19,Indian,Indian
+Poshtik Namak Paras,613.39,6.49,19.52,56.58,Indian,Indian
+Soya Chikki,423.7,7.18,62.89,15.51,Indian,Indian
+Besan Bathua Chilla/Cheela,373.82,11.48,40.65,18.57,Indian,Indian
+Wheat Flour And Nuts Ladoos (Atta Nuts Ladoos),391.9,9.46,44.31,19.19,Indian,Indian
+Gram Flour And Semolina Dhokla (Besan Suji Dhokla),198.91,8.52,25.92,7.1,Indian,Indian
+Atta Dal Burfi,298.8,6.66,40.64,12.47,Indian,Indian
+Soya Roti,283.96,9.18,40.03,9.23,Indian,Indian
+Poshtik Khichdi/Khichri,93.37,3.04,15.64,1.88,Indian,Indian
+Namkeen Daliya,295.11,8.29,49.32,7.99,Indian,Indian
+Sprouts Upma,316.25,9.5,44.96,10.44,Indian,Indian
+Semolina Idli (Suji/Rava Idli),206.39,9.34,33.67,3.47,Indian,Indian
+Poshtik Chilla/Cheela,159.53,4.85,27.47,3.04,Indian,Indian
+Stuffed Bittergourd (Dry) (Bharwa Karela),217.65,1.29,2.49,22.38,Indian,Indian
+Cauliflower Potato Canjee,16.79,0.57,2.63,0.39,Indian,Indian
+Creamed Spinach,96.91,5.18,4.44,6.39,Indian,Indian
+Mango Milkshake With Ice Cream (Aam Milkshake Ice Cream Ke Saath),68.35,1.93,9.18,2.8,Indian,Indian
+Pineapple Milkshake With Ice Cream (Ananas Milkshake Ice Cream Ke Saath),68.49,1.93,9.33,2.75,Indian,Indian
+Orange Milkshake With Ice Cream (Narangi Milkshake Ice Cream Ke Saath),67.82,1.95,9.15,2.75,Indian,Indian
+Woodapple Juice (Bel Ka Sharbat),34.18,0.63,6.51,0.7,Indian,Indian
+Sattu Drink,23.38,0.56,5.16,0.14,Indian,Indian
+Apple And Honey Sorbet (Seb Aur Shehad Ka Sharbat),121.3,0.15,30.74,0.29,Indian,Indian
+Thandai,101.18,3.59,9.13,5.89,Indian,Indian
+Cucumber Sharbat (Kheere Ka Sharbat),27.28,0.26,6.64,0.06,Indian,Indian
+Apple Oats Chia Seed Smoothie,85.64,3.49,13.07,2.48,Indian,Indian
+Nannari Sharbat,88.79,0.01,23.62,0.01,Indian,Indian
+Semolina Milk Drink (Thari Kanji),44.16,0.98,6.93,1.36,Indian,Indian
+Saffron Milk (Kesariya Doodh),102.18,3.17,12.64,4.57,Indian,Indian
+Black Rice Kheer (Chak-Hao Kheer),147.94,4.37,22.93,4.91,Indian,Indian
+Coconut Kheer (Nariyal Ki Kheer),162.61,3.4,14.42,10.55,Indian,Indian
+Apple Sago Payasam (Seb Aur Sabudana Ki Kheer),136.5,3.13,14.4,7.66,Indian,Indian
+Kesari Bath,244.57,2.4,31.38,12.59,Indian,Indian
+Putharekulu,318.3,3.66,59.61,7.55,Indian,Indian
+Mango Malpua,334.64,1.65,12.84,30.67,Indian,Indian
+Mango Vanilla Custard,147.63,3.43,18.41,7.04,Indian,Indian
+Kiwi Granola Pudding,280.99,5.6,32.33,15.36,Indian,Indian
+Oats Burfi,425.19,8.89,62.47,17.27,Indian,Indian
+Lotus Seed Halwa (Kamal Gattay Ka Halwa),370.55,7.79,39.56,20.69,Indian,Indian
+Amaranth Ladoo (Rajgira Ladoo),454.15,10.12,51.33,22.7,Indian,Indian
+Chhena Poda,344.57,13.68,33.64,17.94,Indian,Indian
+Sweet Couscous Dessert,196.2,3.81,29.69,7.69,Indian,Indian
+Sweetened Yogurt (Shrikhand),107.18,5.27,16.02,2.89,Indian,Indian
+Thickened Sweetened Milk (Rabri),102.79,3.52,10.55,5.35,Indian,Indian
+Gram Flour Halwa (Besan Halwa),276.79,5.88,25.78,17.3,Indian,Indian
+Prawn Sandwich,169.65,10.36,11.89,9.27,Indian,Indian
+Watercress Sandwich,229.42,5.17,28.03,11.47,Indian,Indian
+Fish Sandwich,150.2,4.72,10.09,10.37,Indian,Indian
+Kidney Bean Sandwich With Cottage Cheese,176.64,9.85,18.86,6.84,Indian,Indian
+Finger Millet Biscuit (Ragi Biscuit),458.56,4.03,52.69,25.79,Indian,Indian
+Buttermilk Biscuit,322.54,5.76,34.93,17.5,Indian,Indian
+Lemon Cookies,394.48,5.63,42.19,23.02,Indian,Indian
+Sweet Potato Biscuit (Shakarkand Ke Biscuit),296.4,5.14,38.13,13.31,Indian,Indian
+Raspberry Shortbread Cookies,441.12,3.0,61.25,21.25,Indian,Indian
+Pumpkin Cookies,218.4,2.51,44.69,3.93,Indian,Indian
+Greenpea Cookies,159.42,6.53,23.07,4.24,Indian,Indian
+Sunflower Cookies,520.62,9.49,40.06,36.28,Indian,Indian
+Cardamom Cookies (Elaichi Cookies),400.49,5.1,53.99,19.12,Indian,Indian
+Hazelnut Cookies,493.32,6.25,39.44,34.97,Indian,Indian
+Milk Cookies,459.43,10.49,48.43,24.96,Indian,Indian
+Cranberry Cookies,272.48,3.92,36.39,12.66,Indian,Indian
+Olive Biscuit,438.29,3.2,55.01,23.75,Indian,Indian
+Tutti Fruitti Biscuit,420.78,5.21,53.12,17.9,Indian,Indian
+Peach Blueberry Preserves,177.38,0.53,45.76,0.2,Indian,Indian
+Pear Preserves (Naashpati Ka Murabba),101.24,0.25,25.67,0.19,Indian,Indian
+Starfruit Preserves,128.93,0.24,33.62,0.12,Indian,Indian
+Gooseberry Pickle (Amla Ka Achaar),278.58,1.55,7.61,27.61,Indian,Indian
+Lotus Stem Pickle (Kamal Kakdi Ka Achar),102.69,1.44,20.07,1.6,Indian,Indian
+Date Pickle (Khajoor Ka Achaar),182.29,1.68,34.66,4.21,Indian,Indian
+Garlic Pickle (Lahasun Ka Achar),413.62,3.72,9.75,39.88,Indian,Indian
+Fermented Bamboo Shoot Pickle (Mesu Pickle),59.83,1.58,1.73,5.59,Indian,Indian
+Sweet Peach Pickle (Aadoo Ka Achaar),144.64,0.46,37.01,0.2,Indian,Indian
+Pickled Mustard Greens,13.12,1.51,1.05,0.22,Indian,Indian
+Small Onion Pickle,16.86,1.65,2.76,0.64,Indian,Indian
+Green Tomato Pickle (Haray Tamatar Ka Achaar),193.26,1.23,2.87,19.67,Indian,Indian
+Pickled Cabbage,13.69,0.39,2.56,0.14,Indian,Indian
+Coconut Pickle (Nariyal Ka Aachar),517.26,3.02,11.53,51.71,Indian,Indian
+Potato Pickle (Aloo Ka Achaar),369.14,2.07,7.87,36.46,Indian,Indian
+Mango Murabba Candy,293.35,0.27,77.32,0.05,Indian,Indian
+Afghani Chicken,151.51,15.66,1.95,9.07,Indian,Indian
+Fish Orly,563.7,5.87,4.27,58.18,Indian,Indian
+Hariyali Fish Tikka,150.24,14.01,2.21,9.41,Indian,Indian
+Chicken Manchurian,142.34,9.53,6.06,11.96,Indian,Indian
+Handi Chicken,166.02,12.32,1.49,12.46,Indian,Indian
+Lemon Chicken,169.79,20.2,0.55,9.66,Indian,Indian
+Lemon Butter Fish,160.25,16.38,0.75,10.26,Indian,Indian
+Baked Eggs In Tomato Sauce,80.05,4.92,3.78,5.22,Indian,Indian
+Egg In A Pepper,128.78,12.64,0.17,8.68,Indian,Indian
+Spinach Mushroom Scrambled Egg (Palak Mushroom Bhurji),158.85,13.28,0.59,11.51,Indian,Indian
+Corn Omelette/Omlet,166.93,11.37,1.57,12.89,Indian,Indian
+Cajun Chicken,184.94,12.69,1.94,13.99,Indian,Indian
+Paaner Do Pyaza,127.7,4.22,3.41,10.87,Indian,Indian
+Cabbage Manchurian (Pattagobhi Manchurian),224.26,0.64,4.85,22.48,Indian,Indian
+Gobi 65,278.29,0.56,3.59,29.11,Indian,Indian
+Paneer Lababdar,105.48,3.98,3.37,8.46,Indian,Indian
+Roasted Cauliflower Steak,78.68,2.05,2.02,6.7,Indian,Indian
+Sauteed Radishes With Green Beans,94.32,2.41,6.04,6.61,Indian,Indian
+Garlic Chutney/Poondu Chutney (Lahasun Ki Chutney),255.51,3.34,20.44,17.55,Indian,Indian
+Schezwan Chutney,205.19,3.33,10.79,17.72,Indian,Indian
+Onion Chutney (Pyaaz Ki Chutney/Vengaya Chutney),143.94,2.97,13.52,8.38,Indian,Indian
+Dates Chutney (Khajoor Ki Chutney),103.57,1.07,21.69,1.12,Indian,Indian
+Chicken Salad,338.19,15.33,1.3,30.26,Indian,Indian
+Macaroni Salad,262.19,5.02,21.63,17.78,Indian,Indian
+Cabbage Raita (Pattagobhi Raita),84.84,3.24,5.25,5.76,Indian,Indian
+Pomegranate Raita (Anaar Ka Raita),72.64,4.05,7.15,3.24,Indian,Indian
+Onion Raita (Pyaaz Ka Raita),71.56,4.86,7.86,2.43,Indian,Indian
+Green Chilli Raita (Hari Mirch Ka Raita),77.13,5.58,7.66,2.92,Indian,Indian
+Kale Salad,177.71,4.86,5.01,15.33,Indian,Indian
+Spinach And Paneer Souffle,186.19,7.56,9.64,13.49,Indian,Indian
+Masala Souffle,123.51,6.38,8.02,7.37,Indian,Indian
+Chicken And Cheese Souffle,182.35,9.07,3.47,14.74,Indian,Indian
+Tamarind Chutney (Chintapandu Pachadi/Puli Chutney),109.15,0.88,25.07,0.48,Indian,Indian
+Pav Bhaji Masala,230.47,9.13,29.15,10.96,Indian,Indian
+Green Chutney,79.42,5.42,10.01,1.6,Indian,Indian
+Sago Khitchdi/Khichri (Sabudana Khitchdi/Khichri),187.16,2.72,22.41,10.1,Indian,Indian
+Gram Flour Chilla/Cheela (Besan Chilla/Cheela),135.93,7.8,21.03,2.85,Indian,Indian
+Vegetable Namkeen Jave,112.23,2.93,18.98,2.51,Indian,Indian
+Khakhra,178.5,4.78,27.66,5.32,Indian,Indian
+Moong Bean Dosa (Pesarattu),285.96,12.32,31.91,11.67,Indian,Indian
+Methi Thepla,346.16,8.98,41.34,15.95,Indian,Indian
+Rice Puttu (Ari Puttu),81.98,1.26,11.82,3.13,Indian,Indian
+Buckwheat Pancake (Khura),263.3,2.91,27.28,16.43,Indian,Indian
+Quinoa Khichdi/Khichri,64.01,3.18,8.83,1.59,Indian,Indian
+Khakhra Chaat,358.66,4.52,16.64,30.65,Indian,Indian
+Banana Appam,469.81,1.17,20.06,42.53,Indian,Indian
+Veg Manchurian,585.64,0.89,6.82,61.65,Indian,Indian
+Pav Bhaji,96.53,2.66,11.99,4.32,Indian,Indian
+Rice Murukku,593.99,5.41,33.29,48.22,Indian,Indian
+Bhel Puri,509.89,3.52,16.47,47.91,Indian,Indian
+Semolina Dhokla (Suji/Rava Dhokla),194.91,5.44,30.86,5.2,Indian,Indian
+Spicy Corn Chaat,479.8,4.61,11.45,46.55,Indian,Indian
+Jackfruit Fritters (Ponsa Mulik/Kathal Ka Pakora),597.79,2.34,24.0,54.41,Indian,Indian
+Banana Chips (Kele Ke Chips),665.67,0.37,7.32,70.46,Indian,Indian
+Wheat Cake,314.63,4.79,41.13,14.95,Indian,Indian
+Mango Cheesecake,152.46,2.39,20.06,7.3,Indian,Indian
+Carrot Cake (Gajar Ka Cake),255.59,5.6,35.98,10.27,Indian,Indian
+Semolina Cake (Suji/Rava Cake),374.14,6.58,31.32,25.18,Indian,Indian
+Finger Millet Cake (Ragi Cake),279.46,3.96,38.93,12.27,Indian,Indian
+Honey Cake,333.59,3.08,49.04,14.7,Indian,Indian
+Almond Cardamom Cake (Badam Elaichi Cake),356.35,7.18,34.53,21.36,Indian,Indian
+Tutti Frutti Cake,347.72,4.49,52.94,12.68,Indian,Indian
+Ham And Bean Soup,96.04,10.61,4.18,4.15,Indian,Indian
+Whey Soup,68.91,3.45,6.26,3.34,Indian,Indian
+Bottle Gourd Soup (Ghiya/Lauki Soup),23.05,0.45,1.16,1.79,Indian,Indian
+Baked Potato Soup,147.05,5.73,5.85,11.21,Indian,Indian
+Pumpkin Soup,40.05,0.47,2.08,3.2,Indian,Indian
+Sweet Corn Soup,32.25,0.99,3.56,1.63,Indian,Indian
+Paneer Soup,47.85,3.22,2.42,2.8,Indian,Indian
+Curried Cauliflower Soup,37.32,6.72,3.12,9.77,Indian,Indian
+Millet Soup,55.99,11.26,8.22,12.57,Indian,Indian
+Lemon Coriander Soup,108.06,2.27,10.32,6.26,Indian,Indian
+Garlic Soup,194.86,2.38,6.99,17.62,Indian,Indian
+Dal Makhani,74.04,3.32,7.96,3.06,Indian,Indian
+Dalma,118.93,4.91,15.04,4.58,Indian,Indian
+Split Bengal Gram Dal (Channa Dal),99.67,4.15,9.99,4.62,Indian,Indian
+Horsegram Dal (Kulthi Dal),55.65,2.91,8.21,1.13,Indian,Indian
+Panchmel Dal,111.22,4.63,10.71,5.36,Indian,Indian
+Dal Dhokli,68.74,2.96,8.55,2.47,Indian,Indian
+Gujarati Handvo,207.09,8.24,31.86,4.8,Indian,Indian
+Sev (Omapodi/Karapusa),609.14,5.12,12.87,60.08,Indian,Indian
+Papdi,708.96,1.83,12.89,72.11,Indian,Indian
+Jowar Dosa,294.35,8.5,40.53,10.28,Indian,Indian
+Bread Roll,435.46,2.85,16.12,40.25,Indian,Indian
+Soya Seekh Kebab,115.05,5.4,10.0,5.88,Indian,Indian
+Classic Seasoned Black Beans,28.78,8.01,7.66,8.28,Indian,Indian
+Maa Chaane Ki Dal,344.67,19.8,43.11,9.5,Indian,Indian
+Garlic Chickpea Soup (Lahasun Aur Chane Ka Shoraba),89.53,4.45,13.92,2.01,Indian,Indian
+White Sauce (Thin),115.17,3.31,6.58,8.41,Indian,Indian
+White Sauce (Medium),151.27,3.36,7.98,11.76,Indian,Indian
+White Sauce (Thick),209.69,3.43,10.24,17.19,Indian,Indian
+Cheese Sauce,194.76,7.68,7.08,15.12,Indian,Indian
+Egg Sauce,146.85,5.97,5.88,11.08,Indian,Indian
+Mushroom Sauce,137.56,3.39,7.31,10.51,Indian,Indian
+Mustard Sauce,158.58,3.98,8.29,12.17,Indian,Indian
+Brown Sauce,109.18,11.92,5.38,23.67,Indian,Indian
+Classic Italian Pasta,42.12,0.57,4.4,2.45,Indian,Indian
+Pasta Spinach Sauce,85.46,1.76,1.76,7.9,Indian,Indian
+Pasta Cheese Sauce,149.26,4.33,9.0,10.84,Indian,Indian
+Mayonnaise,774.86,1.86,1.65,84.52,Indian,Indian
+Low Calorie Quick Mayonnaise,242.89,1.41,4.71,24.35,Indian,Indian
+Thousand Island Dressing,407.87,1.37,4.49,42.87,Indian,Indian
+Curd Dip,79.95,5.04,7.95,3.36,Indian,Indian
+Short Crust Pastry,422.1,6.11,44.72,23.98,Indian,Indian
+Choux Pastry,222.37,5.55,16.2,14.96,Indian,Indian
+Flaky Pastry,443.94,4.69,33.61,31.99,Indian,Indian
+Sponge Cake,253.77,9.18,44.63,4.74,Indian,Indian
+Glace Icing,323.51,0.01,86.31,0.01,Indian,Indian
+Royal Icing,332.58,1.74,86.53,0.02,Indian,Indian
+American Frosting,257.57,1.05,67.48,0.01,Indian,Indian
+Gum Icing,223.07,5.94,53.19,0.0,Indian,Indian
+Channa Murmura Premix,339.09,10.59,72.59,3.28,Indian,Indian
+Cracked Wheat And Green Gram Dal Premix (Dalia Moong Dal Premix),362.16,15.89,64.75,5.11,Indian,Indian
+Rice Flakes And Roasted Channa,333.4,10.57,71.94,2.94,Indian,Indian
+Spinach Soup In Milk,56.72,2.89,3.98,3.2,Indian,Indian
+Vegetable Soup,55.21,2.22,7.6,1.55,Indian,Indian
+Mashed Banana With Milk,95.43,2.51,14.62,2.99,Indian,Indian
+Poha With Curd (Poha Aur Dahi),173.32,6.01,26.72,4.65,Indian,Indian
+Potato With Curd,73.18,3.19,12.01,1.33,Indian,Indian
+Sweet Wheat Porridge (Sweet Dalia),140.66,5.11,23.77,2.79,Indian,Indian
+Vegetable Khichdi/Khichri,143.17,5.61,19.57,4.53,Indian,Indian
+Moong Dal Mixture,158.84,4.62,33.93,1.0,Indian,Indian
+Cracked Wheat Khichri/Khichdi (Dalia Khichri/Khichdi),167.45,7.56,22.35,5.52,Indian,Indian
+Stewed Apple,91.93,0.17,22.49,0.37,Indian,Indian
+Lemon Squash (Nimbu Ka Squash),184.56,0.15,48.88,0.06,Indian,Indian
+Orange Squash (Santre Ka Squash),193.26,0.22,50.88,0.04,Indian,Indian
+Lichi Squash,198.33,0.3,51.96,0.08,Indian,Indian
+Mango Squash (Aam Ka Squash),194.66,0.17,50.96,0.17,Indian,Indian
+Pineapple Squash (Ananas Ka Squash),195.02,0.16,51.34,0.05,Indian,Indian
+Lemon And Ginger Squash (Nimbu Aur Adrak Ka Squash),170.34,0.54,44.06,0.21,Indian,Indian
+Apple Jam (Seb Ka Murabba),188.79,0.14,48.56,0.32,Indian,Indian
+Plum Jam (Aloo Bukhara Jam),178.89,0.31,46.2,0.19,Indian,Indian
+Pineapple Jam,149.18,0.32,38.27,0.15,Indian,Indian
+Guava Jelly (Amrood Ki Jelly),115.74,1.11,28.18,0.25,Indian,Indian
+Orange Marmalade (Santray Ka Murabba),104.17,0.66,25.94,0.13,Indian,Indian
+Carrot Murabba (Gajar Ka Murabba),175.24,0.32,45.6,0.16,Indian,Indian
+Gooseberry Marmalade (Amla Murabba),123.16,0.14,32.34,0.03,Indian,Indian
+Ginger Candy (Adrak Ki Candy),195.71,0.69,50.38,0.27,Indian,Indian
+Mango Pickle (Aam Ka Achaar),192.12,1.6,8.11,17.89,Indian,Indian
+Mixed Vegetable Pickle (Sabziyoon Ka Achaar),211.2,1.9,7.48,19.68,Indian,Indian
+Sweet Lemon Pickle (Neembu Ka Meetha Achaar),69.54,1.22,16.87,0.21,Indian,Indian
+Plum Chutney (Aloo Bukhara Ki Chutney),177.11,0.47,44.95,0.29,Indian,Indian
+Raw Mango Chutney (Kachhe Aam/Kairi Ki Chutney),193.13,0.51,49.94,0.16,Indian,Indian
+Tomato Sauce,34.33,0.81,7.23,0.27,Indian,Indian
+Tomato Puree,20.62,0.75,3.68,0.25,Indian,Indian
+Garam Masala,254.21,9.89,26.2,10.97,Indian,Indian
+Chat Masala,222.58,8.19,23.87,9.91,Indian,Indian
+Kashmiri Masala,389.02,8.26,23.16,31.03,Indian,Indian
+Rasam Powder (Rasam Masala),267.96,12.04,25.19,11.8,Indian,Indian
+Sambar Powder (Sambar Masala),297.46,12.5,23.38,15.58,Indian,Indian
+Tartare Sauce,610.93,1.44,2.96,66.12,Indian,Indian
+Barbeque Sauce,121.93,0.96,20.46,4.51,Indian,Indian
+Bread Sauce,111.04,3.46,8.69,7.05,Indian,Indian
+Green Chilli Sauce,46.06,1.25,7.36,0.27,Indian,Indian
+Home Made Plain Noodles,238.78,6.21,44.5,3.56,Indian,Indian
+Dal Moong,43.69,2.2,4.92,1.62,Indian,Indian
+Cumin Seeds Baghar (Jeera Baghar/Tadka),736.81,3.34,5.22,78.77,Indian,Indian
+Onion Tomato Baghar (Pyaaz Tamatar Ka Tadka),137.52,1.26,6.17,11.98,Indian,Indian
+Mustard Seeds Baghar (Mustard Seed Tadka),552.59,4.73,10.45,54.3,Indian,Indian
+Hot Cherry Sauce,252.74,0.13,67.95,0.07,Indian,Indian
+Apple Jelly (Seb Ki Jelly),152.13,0.1,39.37,0.21,Indian,Indian
+Marmalade (Murabba),143.76,0.23,37.64,0.04,Indian,Indian
+Plum Squash (Aloo Bukhara Squash),211.17,0.16,55.51,0.1,Indian,Indian
+Lemon Green Chilli Pickle (Nimboo Aur Hari Mirch Ka Achaar),14.07,0.85,2.14,0.24,Indian,Indian
+Brinjal Pickle (Baingan Ka Achaar),139.01,2.24,4.23,12.98,Indian,Indian
+Sweet And Sour Tomato Pickle (Khatta Meetha Tamatar Ka Achaar),60.88,1.26,6.55,3.24,Indian,Indian
+Jhatpat Achar With Carrot (Jhatpat Achaar Gajar Ke Saath),91.21,1.98,6.32,6.55,Indian,Indian
+Tomato Chutney (Tamatar Ki Chutney),176.07,0.97,31.85,6.01,Indian,Indian
+Tomato Ketchup,33.07,0.91,6.48,0.3,Indian,Indian
+Bengal 5 Spice Blend (Panch Phoran),289.79,18.26,20.0,22.16,Indian,Indian
+Soya Flour Gobi Stuffed Paratha,235.0,16.0,24.0,7.0,Veg,NutritionCF
+Dumplings (Veg),115.0,4.0,22.0,1.0,Veg,NutritionCF
+Baked Vegetables,17.0,0.0,1.0,1.0,Veg,NutritionCF
+Lettuce Wrap (Chicken),214.0,20.0,10.0,9.0,Non-veg,NutritionCF
+Soya Sizzler,305.0,28.0,21.0,10.0,Veg,NutritionCF
+Fried Rice,1123.0,31.0,203.0,18.0,Veg,NutritionCF
+Soy Milk,324.0,33.0,9.0,17.0,Veg,NutritionCF
+Soya Bhurji,138.0,14.0,10.0,4.0,Veg,NutritionCF
+Chicken Sizzler,271.0,9.0,19.0,18.0,Non-veg,NutritionCF
+Rajma Chaat,551.0,36.0,94.0,2.0,Veg,NutritionCF
+Saute Tofu,264.0,22.0,17.0,9.0,Veg,NutritionCF
+Chilli Chicken,298.0,16.0,10.0,20.0,Non-veg,NutritionCF
+Soya Granules,331.0,21.0,42.0,9.0,Veg,NutritionCF
+Chicken Rice,352.0,15.0,51.0,10.0,Non-veg,NutritionCF
+Gravy Tofu,503.0,18.0,22.0,35.0,Veg,NutritionCF
+Masala Tofu,146.0,10.0,15.0,4.0,Veg,NutritionCF
+Soya Roti Roll (Broccoli & Tofu),550.0,36.0,27.0,33.0,Veg,NutritionCF
+Smoothie (Soya Milk),131.0,5.0,7.0,9.0,Veg,NutritionCF
+Tofu Salad,66.0,3.0,6.0,2.0,Veg,NutritionCF
+Soya Chunks Salad,333.0,22.0,50.0,3.0,Veg,NutritionCF
+Noodles Tofu Sizzler,381.0,12.0,73.0,3.0,Veg,NutritionCF
+Nutri Matar (Soya) Vegetable,204.0,11.0,23.0,7.0,Veg,NutritionCF
+Soya Sprouts Salad,145.0,8.0,25.0,1.0,Veg,NutritionCF
+Lettuce Wrap With Vegetables,173.0,8.0,19.0,5.0,Veg,NutritionCF
+Beans/Chinese Beans,171.0,5.0,11.0,11.0,Veg,NutritionCF
+Vegetables In Black Bean Sauce,147.0,9.0,19.0,1.0,Veg,NutritionCF
+Vietnamese Cold Spring Roll,42.0,3.0,7.0,1.0,Veg,NutritionCF
+Soya Wrap,246.0,16.0,29.0,6.0,Veg,NutritionCF
+Shredded Chicken With Soya Sauce,220.0,22.0,7.0,13.0,Non-veg,NutritionCF
+Rice Flour Wrap With Tofu And Veggie,281.0,7.0,44.0,7.0,Veg,NutritionCF
+Soya Tikki,275.0,28.0,40.0,1.0,Veg,NutritionCF
+Soya Flour Gobhi Stuffed Paratha,238.0,20.0,17.0,10.0,Veg,NutritionCF
+Saute Tofu,51.0,5.0,2.0,3.0,Veg,NutritionCF
+Soya Flour Cheela,582.0,35.0,36.0,33.0,Veg,NutritionCF
+Tofu Tikka Saute In Green Chutney,449.0,29.0,15.0,29.0,Veg,NutritionCF
+Soya Flour Cheela,310.0,9.0,20.0,22.0,Veg,NutritionCF
+Avocado Toast 2,531.0,10.0,39.0,38.0,Veg,NutritionCF
+Crispy Prawn Rolls,124.0,10.0,5.0,6.0,Non-veg,NutritionCF
+Prawn Masala Dumpling,75.0,4.0,10.0,2.0,Non-veg,NutritionCF
+Sesame Chicken Salad,274.0,27.0,17.0,9.0,Non-veg,NutritionCF
+Fish Fingers (Grilled / Roasted ),512.0,27.0,51.0,19.0,Non-veg,NutritionCF
+Prawn Cutlet,34.0,4.0,3.0,0.0,Non-veg,NutritionCF
+Rice Milk,214.0,5.0,47.0,0.0,Veg,NutritionCF
+Chicken Salami Salad,578.0,53.0,7.0,37.0,Non-veg,NutritionCF
+Chicken Sausages Salad,593.0,54.0,10.0,37.0,Non-veg,NutritionCF
+Chicken Salami Toast,138.0,8.0,20.0,2.0,Non-veg,NutritionCF
+Sabudana Cutlet/Tikki,372.0,5.0,68.0,8.0,Veg,NutritionCF
+Chicken Satay,473.0,35.0,9.0,34.0,Non-veg,NutritionCF
+Coconut Chutney,60.0,1.3,4.9,4.4,Veg,NutritionCF
+Sabudana Khichdi,156.0,3.0,22.0,5.0,Veg,NutritionCF
+Sabudana Vada,32.0,0.0,3.0,2.0,Veg,NutritionCF
+Masala Onion Salad,48.0,1.0,8.0,0.0,Veg,NutritionCF
+"Bell Pepper, Onion & Tomato Vegetable",250.0,5.0,18.0,16.0,Veg,NutritionCF
+Roasted Makhana (Foxnuts),139.0,5.0,28.0,1.0,Veg,NutritionCF
+Hummus,349.0,13.0,30.0,18.0,Veg,NutritionCF
+Almond Flour Wrap,640.0,23.0,23.0,53.0,Veg,NutritionCF
+Oats Porridge,174.0,8.0,27.0,5.0,Veg,NutritionCF
+Mix Nuts Raita,230.0,10.0,12.0,16.0,Veg,NutritionCF
+Rajma Kebab,92.0,5.0,12.0,3.0,Veg,NutritionCF
+Bhel (No Papri),935.0,21.0,196.0,5.0,Veg,NutritionCF
+Veg Seeds Salad,288.0,14.0,23.0,15.0,Veg,NutritionCF
+Steam Vegetable Salad,88.0,3.0,14.0,0.0,Veg,NutritionCF
+Fruit & Nuts (Walnut & Almond) Salad,320.0,7.0,45.0,12.0,Veg,NutritionCF
+Chicken Salad With Almond Honey Mustard Dressing,982.0,112.0,8.0,55.0,Non-veg,NutritionCF
+Almond Soup,223.0,8.0,12.0,18.0,Veg,NutritionCF
+Almond Mushroom Soup,192.0,8.0,7.0,15.0,Veg,NutritionCF
+Oats Smoothie,224.0,9.0,36.0,6.0,Veg,NutritionCF
+Smoothie (Almond Milk),192.0,4.0,39.0,5.0,Veg,NutritionCF
+Kala Chana Soup,115.0,5.0,18.0,2.0,Veg,NutritionCF
+Papaya Salad (Raw Papaya),255.0,4.0,9.0,22.0,Veg,NutritionCF
+Pineapple & Spinach Salad,146.0,4.0,25.0,4.0,Veg,NutritionCF
+Foxtail Millet Pulao,254.0,8.0,40.0,6.0,Veg,NutritionCF
+Almond Flour Roti (20% Almond Flour + 80% Wheat Flour),385.0,11.0,48.0,17.0,Veg,NutritionCF
+Almond Flour Roti (50% Almond Flour + 50% Oats Flour),340.0,10.0,33.0,20.0,Veg,NutritionCF
+Almond Flour Roti (100% Almond Flour),33.0,1.0,1.0,0.0,Veg,NutritionCF
+Almond Soup (With Almond Milk),328.0,16.0,22.0,21.0,Veg,NutritionCF
+Almond Roti (50% Almond Flour And 50% Normal Atta),112.0,4.0,12.0,5.0,Veg,NutritionCF
+Nuts And Seeds Salad,1385.0,40.0,28.0,125.0,Veg,NutritionCF
+Coffee With Almond Milk (No Sugar),48.0,1.0,2.0,3.0,Veg,NutritionCF
+Almond Flour Roti,149.0,4.0,4.0,13.0,Veg,NutritionCF
+Cashew Milk,292.0,9.0,13.0,23.0,Veg,NutritionCF
+Apple Walnut Salad,338.0,6.0,9.0,13.0,Veg,NutritionCF
+Apple Stew,143.0,1.0,37.0,1.0,Veg,NutritionCF
+Mixed Fruit Salad,222.0,3.0,48.0,1.0,Veg,NutritionCF
+Chicken Minced Salad,114.0,1.0,9.0,8.0,Non-veg,NutritionCF
+Papaya Shake With Almond Milk,78.0,2.0,3.0,7.0,Veg,NutritionCF
+Broccoli Soup With Coconut Milk,191.0,1.0,14.0,15.0,Veg,NutritionCF
+Apple Walnut Salad 2,375.0,5.0,12.0,35.0,Veg,NutritionCF
+Roated Chickpeas,281.0,17.0,39.0,5.0,Veg,NutritionCF
+Safed Matar With No Oil,179.0,10.0,33.0,0.0,Veg,NutritionCF
+Safed Matar Masala (No Oil),33.0,1.0,6.0,0.0,Veg,NutritionCF
+Coffee With Almond Milk,20.0,1.0,4.0,1.0,Veg,NutritionCF
+Almonds And Walnut Raita,351.0,13.0,11.0,29.0,Veg,NutritionCF
+Suji Halwa,365.0,6.0,85.0,1.0,Veg,NutritionCF
+Baked Sweet Potatoes,574.0,4.0,75.0,27.0,Veg,NutritionCF
+Bajra Cheela,113.0,3.0,17.0,4.0,Veg,NutritionCF
+Rice Idli,66.0,2.0,13.0,0.0,Veg,NutritionCF
+Non Veg Cutlet,233.0,19.0,12.0,11.0,Non-veg,NutritionCF
+Quinoa Upma,345.0,13.0,43.0,13.0,Veg,NutritionCF
+Barley (Jaw) Water,16.0,1.0,3.0,0.0,Veg,NutritionCF
+Kari-Patta Saunf Ajawain Water,11.0,0.0,1.0,1.0,Veg,NutritionCF
+Apple Shake,116.0,5.0,22.0,0.0,Veg,NutritionCF
+Non Vegetarian Tacos,293.0,14.0,25.0,13.0,Non-veg,NutritionCF
+Baked Potato,141.0,3.0,27.0,2.0,Veg,NutritionCF
+Chick Pea Salad,196.0,8.0,18.0,10.0,Veg,NutritionCF
+Jaw Cheela,184.0,5.0,31.0,4.0,Veg,NutritionCF
+Lettuce Wrap (Tofu),183.0,2.0,15.0,5.0,Veg,NutritionCF
+Oats Roastie,492.0,17.0,77.0,12.0,Veg,NutritionCF
+Veg Entree (Roasted),222.0,3.0,13.0,15.0,Veg,NutritionCF
+Chatpate Kale Masoor,366.0,2.0,20.0,31.0,Veg,NutritionCF
+Veg Tacos,322.0,18.0,23.0,15.0,Veg,NutritionCF
+Dal Cheela Wrap,471.0,29.0,68.0,7.0,Veg,NutritionCF
+Chicken Lollipop,673.0,50.0,21.0,42.0,Non-veg,NutritionCF
+Jeera Aloo,81.0,1.0,1.0,8.0,Veg,NutritionCF
+Chicken Dumpling (Non Veg),232.0,22.0,4.0,14.0,Non-veg,NutritionCF
+Tomato Rice (Brown Rice),566.0,14.0,105.0,7.0,Veg,NutritionCF
+"Tomato, Beetroot, Amla & Pudina Juice",111.0,3.0,16.0,2.0,Veg,NutritionCF
+Lemon Rice,927.0,22.0,184.0,9.0,Veg,NutritionCF
+Chicken Korma,171.0,11.0,9.0,11.0,Non-veg,NutritionCF
+Chicken With Staraniseed,529.0,41.0,63.0,10.0,Non-veg,NutritionCF
+Quinoa,239.0,8.0,34.0,7.0,Veg,NutritionCF
+Nutri Rice (Soyabean),1264.0,64.0,202.0,18.0,Veg,NutritionCF
+Dhaniya Ajwain Water,12.0,1.0,1.0,1.0,Veg,NutritionCF
+Dhaniya Water,13.0,1.0,1.0,1.0,Veg,NutritionCF
+Detox Water,18.0,0.0,2.0,0.0,Veg,NutritionCF
+Baked Chicken,81.0,7.0,0.0,6.0,Non-veg,NutritionCF
+Bbq Chicken,248.0,22.0,1.0,17.0,Non-veg,NutritionCF
+Carrot Beetroot Pudina Amla Juice,92.0,3.0,16.0,1.0,Veg,NutritionCF
+Tabbouleh,350.0,7.0,39.0,16.0,Veg,NutritionCF
+Lauki Cucumber Amla Lemon Juice,55.0,2.0,8.0,0.0,Veg,NutritionCF
+Jowar Roti (100%),334.0,10.0,68.0,2.0,Veg,NutritionCF
+Jowar Roti (50% Jawar 50% Wheat Atta),65.0,2.0,13.0,0.0,Veg,NutritionCF
+Veg Kebab,440.0,19.0,74.0,7.0,Veg,NutritionCF
+Egg Wrap,389.0,15.0,14.0,30.0,Eggetarian,NutritionCF
+Falafel,185.0,2.0,7.0,16.0,Veg,NutritionCF
+Brown Rice,89.0,2.0,19.0,0.0,Veg,NutritionCF
+Boiled Rice,138.0,3.0,32.0,0.0,Veg,NutritionCF
+Pyaazi Kebab,1455.0,109.0,57.0,87.0,Non-veg,NutritionCF
+Ragi Roti (100%),101.0,2.0,21.0,1.0,Veg,NutritionCF
+Makki Methi Roti,34.0,3.0,5.0,1.0,Veg,NutritionCF
+Makki Mooli Roti,34.0,2.0,6.0,1.0,Veg,NutritionCF
+Makki Roti,29.0,2.0,5.0,1.0,Veg,NutritionCF
+Jeera-Kari-Patta Water,15.0,1.0,1.0,1.0,Veg,NutritionCF
+Jeera Water,18.0,1.0,2.0,1.0,Veg,NutritionCF
+Vegetable Cutlet,92.0,3.0,11.0,3.0,Veg,NutritionCF
+Veg Grilled Salad,69.0,5.0,7.0,0.0,Veg,NutritionCF
+Gluten Free Wrap (Rice Flour),582.0,8.0,97.0,16.0,Veg,NutritionCF
+Palak Patta Chaat,698.0,30.0,86.0,23.0,Veg,NutritionCF
+Veg Dalia(Broken Wheat),218.0,8.0,29.0,6.0,Veg,NutritionCF
+Chana Dal Bada,508.0,25.0,71.0,15.0,Veg,NutritionCF
+Channa Chat,191.0,8.0,33.0,2.0,Veg,NutritionCF
+Chana Dal And Cabbage Tikki,63.0,1.0,3.0,5.0,Veg,NutritionCF
+Rajma Tikki,132.0,5.0,16.0,5.0,Veg,NutritionCF
+Masala Poori,356.0,8.0,53.0,11.0,Veg,NutritionCF
+"Beetroot, Cucumber And Tomato Salad",88.0,7.0,11.0,1.0,Veg,NutritionCF
+Lettuce Leaves & Papaya Salad,156.0,4.0,23.0,4.0,Veg,NutritionCF
+Lettuce Wrapped Egg,44.0,4.0,3.0,2.0,Eggetarian,NutritionCF
+Channa Salad (Black),480.0,30.0,68.0,6.0,Veg,NutritionCF
+Jau Vegetable Dalia,70.0,2.0,7.0,4.0,Veg,NutritionCF
+Rice Tofu Sizzler,110.0,4.0,12.0,5.0,Veg,NutritionCF
+"Cherry, Blueberries & Bell Peppers Salad",63.0,1.0,23.0,1.0,Veg,NutritionCF
+Rice Vegetable Sizzler,344.0,6.0,43.0,15.0,Veg,NutritionCF
+Quesedilla,104.0,7.0,0.0,8.0,Veg,NutritionCF
+Ragi Dosa,126.0,2.0,22.0,3.0,Veg,NutritionCF
+Ragi Idli,296.0,11.0,55.0,4.0,Veg,NutritionCF
+Lobia Chat,77.0,5.0,13.0,0.0,Veg,NutritionCF
+Zucchini Salad,92.0,5.0,12.0,1.0,Veg,NutritionCF
+Pita Bread (Wheat),413.0,14.0,78.0,4.0,Veg,NutritionCF
+Bajra Khichadi,1374.0,49.0,231.0,23.0,Veg,NutritionCF
+Ghiya Cucumber Juice,42.0,1.0,7.0,1.0,Veg,NutritionCF
+Ghiya Cucumber Amla Juice,55.0,0.0,12.0,0.0,Veg,NutritionCF
+Veg Basil Cup,77.0,2.0,2.0,5.0,Veg,NutritionCF
+Boiled Aloo,59.0,2.0,12.0,0.0,Veg,NutritionCF
+Boiled Shakarkandi,170.0,3.0,38.0,1.0,Veg,NutritionCF
+Jeera Rice (Brown Rice),265.0,5.0,46.0,6.0,Veg,NutritionCF
+Jeera Rice (Basmati Rice),263.0,5.0,47.0,5.0,Veg,NutritionCF
+Stuffed Ragi Roti,339.0,8.0,64.0,3.0,Veg,NutritionCF
+Plain Dosa,987.0,26.0,200.0,7.0,Veg,NutritionCF
+Uttapam,80.0,2.0,15.0,1.0,Veg,NutritionCF
+Ragi Wrap,241.0,4.0,32.0,9.0,Veg,NutritionCF
+Bajra Methi Khakra,563.0,16.0,102.0,7.0,Veg,NutritionCF
+Bajra Wrap,377.0,11.0,70.0,3.0,Veg,NutritionCF
+Besan Dhokla,226.0,11.0,28.0,7.0,Veg,NutritionCF
+Millets Dosa (Foxtail),97.0,1.0,4.0,9.0,Veg,NutritionCF
+Methi Water,33.0,3.0,4.0,1.0,Veg,NutritionCF
+Pudina Water,3.0,0.0,0.0,0.0,Veg,NutritionCF
+Methi-Ajwain Water,12.0,1.0,1.0,0.0,Veg,NutritionCF
+Chicken Kebab,102.0,6.0,5.0,6.0,Non-veg,NutritionCF
+Kadha,69.0,1.0,11.0,1.0,Veg,NutritionCF
+Lemon Tea,1.0,0.0,1.0,0.0,Veg,NutritionCF
+Smoothie (In Milk),183.0,8.0,40.0,0.0,Veg,NutritionCF
+Stuffed Bajara Roti,840.0,21.0,162.0,11.0,Veg,NutritionCF
+Hara Masala Kebab (Spinach),77.0,1.0,6.0,5.0,Veg,NutritionCF
+Chakhle'S Shami Kebab,18.0,1.0,3.0,0.0,Non-veg,NutritionCF
+Chana Tikki (Kabuli Chana),261.0,12.0,33.0,9.0,Veg,NutritionCF
+Lettuce Wrap Channa Tikki,466.0,24.0,71.0,11.0,Veg,NutritionCF
+Millets Khichdi,442.0,21.0,69.0,6.0,Veg,NutritionCF
+Aloo /Shakarkandi,79.0,1.0,19.0,0.0,Veg,NutritionCF
+Sambar,120.0,1.0,14.0,7.0,Veg,NutritionCF
+Aloo Tikki,279.0,2.0,32.0,15.0,Veg,NutritionCF
+Almond Flour Cheela,757.0,19.0,48.0,55.0,Veg,NutritionCF
+"Carrot, Bell Pepper, Broccoli, Cucumber, And Beetroot Salad",103.0,4.0,20.0,0.0,Veg,NutritionCF
+Sprouts Salad,245.0,16.0,40.0,1.0,Veg,NutritionCF
+Som Tam Green Papaya Salad,80.0,3.0,15.0,0.0,Veg,NutritionCF
+"Strawberry , Orange Vegetable Salad",112.0,4.0,21.0,0.0,Veg,NutritionCF
+Chicken Salad With Plums,263.0,25.0,17.0,9.0,Non-veg,NutritionCF
+Boiled Chicken Salad,357.0,25.0,8.0,24.0,Non-veg,NutritionCF
+Veg Soup,236.0,5.0,18.0,15.0,Veg,NutritionCF
+Veg Shorba (No Dal),184.0,4.0,13.0,11.0,Veg,NutritionCF
+Jowar Cheela,302.0,4.0,31.0,16.0,Veg,NutritionCF
+Non-Vegetarian Tacos,79.0,1.0,1.0,8.0,Non-veg,NutritionCF
+Gravy Chicken,237.0,9.0,8.0,17.0,Non-veg,NutritionCF
+Amaranth Flour Cheela,323.0,10.0,60.0,3.0,Veg,NutritionCF
+Shredded Chicken Wrapped (Wrap),959.0,75.0,65.0,45.0,Non-veg,NutritionCF
+Masoor Dal,217.0,11.0,31.0,4.0,Veg,NutritionCF
+Mattar Ki Sabzi,305.0,14.0,16.0,18.0,Veg,NutritionCF
+Apple And Sprouts Salad,150.0,6.0,24.0,4.0,Veg,NutritionCF
+Caesar Salad,116.0,6.0,12.0,5.0,Veg,NutritionCF
+Tomato & Cucumber Salad,232.0,11.0,12.0,16.0,Veg,NutritionCF
+Potato Salad,994.0,45.0,141.0,25.0,Veg,NutritionCF
+Avocado Salad,492.0,15.0,15.0,42.0,Veg,NutritionCF
+Veg & Fruit Salad,476.0,15.0,51.0,23.0,Veg,NutritionCF
+Quinoa Salad,244.0,9.0,40.0,3.0,Veg,NutritionCF
+Millets Salad,71.0,2.0,14.0,1.0,Veg,NutritionCF
+Soya Wheat Bran Roti (50% Wheat Bran & 50% Soya Flour),503.0,30.0,66.0,12.0,Veg,NutritionCF
+Risotto With Additional Dressing(Corn),83.0,3.0,15.0,0.0,Veg,NutritionCF
+Herbal Tea,0.0,0.0,0.0,0.0,Veg,NutritionCF
+Non-Veg Soup,470.0,30.0,54.0,12.0,Non-veg,NutritionCF
+Oats Poha,255.0,9.0,38.0,7.0,Veg,NutritionCF
+Non-Veg Platter (Chicken),73.0,7.0,5.0,3.0,Non-veg,NutritionCF
+Multigrain Paratha,448.0,16.0,74.0,10.0,Veg,NutritionCF
+Methi Thepla,76.0,33.0,174.0,10.0,Veg,NutritionCF
+Baba Ganoush With Hummus,243.0,7.0,11.0,17.0,Veg,NutritionCF
+Aloo Curry,490.0,8.0,75.0,16.0,Veg,NutritionCF
+Kale Chips,39.0,2.0,5.0,2.0,Veg,NutritionCF
+Jau Wrap,591.0,17.0,99.0,12.0,Veg,NutritionCF
+Jawar Wrap,112.0,3.0,18.0,0.0,Veg,NutritionCF
+Grilled Pineapple/ Apple,7.0,0.0,2.0,0.0,Veg,NutritionCF
+Mixed Veg Soup,130.0,5.0,24.0,0.0,Veg,NutritionCF
+Veg Clear Soup,179.0,6.0,18.0,10.0,Veg,NutritionCF
+Soupy Noodles,96.0,5.0,18.0,0.0,Veg,NutritionCF
+Spinach Soup,98.0,3.0,16.0,0.0,Veg,NutritionCF
+Sweet Corn Kernels,96.0,2.0,17.0,0.0,Veg,NutritionCF
+Vegetable Oats Soup,194.0,6.0,35.0,2.0,Veg,NutritionCF
+Green Salad,45.0,3.0,7.0,0.0,Veg,NutritionCF
+Green Papaya Salad,82.0,3.0,18.0,0.0,Veg,NutritionCF
+Quinoa Soup,255.0,7.0,34.0,9.0,Veg,NutritionCF
+Pasta Salad,29.0,0.0,5.0,0.0,Veg,NutritionCF
+"Pomegranate, Avocado, Grapes & Zucchini Salad",167.0,4.0,18.0,7.0,Veg,NutritionCF
+Quinoa And Chicken Salad,481.0,29.0,59.0,12.0,Non-veg,NutritionCF
+Methi Matar Vegetable,210.0,11.0,20.0,7.0,Veg,NutritionCF
+Mooli Methi Vegetable,196.0,10.0,16.0,7.0,Veg,NutritionCF
+Palak Aloo Vegetable,246.0,12.0,30.0,7.0,Veg,NutritionCF
+Mix Vegetable,99.0,2.0,7.0,5.0,Veg,NutritionCF
+Dal Cheela,512.0,31.0,76.0,8.0,Veg,NutritionCF
+Dhokla,209.0,10.0,31.0,4.0,Veg,NutritionCF
+Seekh Kebab (Chicken),248.0,24.0,6.0,14.0,Non-veg,NutritionCF
+Samakhia Rice,263.0,4.0,38.0,10.0,Veg,NutritionCF
+Spring Roll,125.0,3.0,20.0,4.0,Veg,NutritionCF
+Grilled Vegetables,18.0,1.0,2.0,0.0,Veg,NutritionCF
+Grilled Fruits,52.0,0.0,13.0,0.0,Veg,NutritionCF
+Amla Water,16.0,0.0,3.0,0.0,Veg,NutritionCF
+Prune And Imlie (Tamarind) Water,44.0,0.0,10.0,0.0,Veg,NutritionCF
+Imlie & Prune Water With Mishri,100.0,2.0,21.0,1.0,Veg,NutritionCF
+Jau Roti (100%),79.0,3.0,15.0,0.0,Veg,NutritionCF
+Kodo Millet Khichdi,253.0,6.0,43.0,6.0,Veg,NutritionCF
+Chicken Curry,285.0,29.0,8.0,15.0,Non-veg,NutritionCF
+Chicken Keema,249.0,26.0,8.0,13.0,Non-veg,NutritionCF
+Chana Dal,251.0,14.0,31.0,7.0,Veg,NutritionCF
+Rajma Sabji,269.0,15.0,41.0,5.0,Veg,NutritionCF
+Lobia Sabji,115.0,4.0,14.0,4.0,Veg,NutritionCF
+"Avocado, Cherry Tomato, Cucumber, Lettuce Leaves And Seeds Salad",393.0,12.0,13.0,31.0,Veg,NutritionCF
+Baby Corn And Broccoli Salad,109.0,6.0,16.0,3.0,Veg,NutritionCF
+Baby Tomato And Lettuce Salad,205.0,14.0,30.0,4.0,Veg,NutritionCF
+Beans Salad,460.0,30.0,81.0,2.0,Veg,NutritionCF
+Corn And Spinach Salad,124.0,5.0,21.0,2.0,Veg,NutritionCF
+Corn And Avocado Salad,80.0,2.0,8.0,5.0,Veg,NutritionCF
+"Cucumber, Onion And Tomato Salad",64.0,5.0,8.0,1.0,Veg,NutritionCF
+Lettuce Leaves Salad,17.0,1.0,3.0,0.0,Veg,NutritionCF
+Detox Salad,154.0,10.0,8.0,9.0,Veg,NutritionCF
+Mint Salad,43.0,3.0,5.0,0.0,Veg,NutritionCF
+Carrot Soup,107.0,5.0,18.0,1.0,Veg,NutritionCF
+Peas Soup,133.0,9.0,17.0,3.0,Veg,NutritionCF
+Tomato Soup,29.0,1.0,6.0,0.0,Veg,NutritionCF
+Chicken Rice Soup,264.0,31.0,14.0,8.0,Non-veg,NutritionCF
+Baingan Bharta,332.0,6.0,40.0,16.0,Veg,NutritionCF
+Bharwa Baigan,214.0,2.0,10.0,17.0,Veg,NutritionCF
+Bharwa Tinda,75.0,2.0,5.0,4.0,Veg,NutritionCF
+Bhindi,243.0,8.0,28.0,10.0,Veg,NutritionCF
+Green Beans Aloo,106.0,5.0,20.0,1.0,Veg,NutritionCF
+Karela Vegetable,114.0,2.0,6.0,9.0,Veg,NutritionCF
+Methi Vegetable,214.0,11.0,15.0,11.0,Veg,NutritionCF
+Palak Vegetable,148.0,6.0,9.0,9.0,Veg,NutritionCF
+Broccoli Vegetable,33.0,2.0,6.0,0.0,Veg,NutritionCF
+Bell Peppers Vegetable,118.0,8.0,18.0,1.0,Veg,NutritionCF
+Capsicum Vegetable,357.0,5.0,12.0,31.0,Veg,NutritionCF
+Cabbage Matar Vegetable,332.0,20.0,49.0,5.0,Veg,NutritionCF
+Aloo Gobhi Vegetable,89.0,2.0,8.0,5.0,Veg,NutritionCF
+Aloo Matar Vegetable,180.0,9.0,24.0,6.0,Veg,NutritionCF
+Aloo Matar Gravy,244.0,11.0,36.0,6.0,Veg,NutritionCF
+Baked Broccoli (No White Sauce),643.0,6.0,23.0,58.0,Veg,NutritionCF
+Baked Cauliflower (No White Sauce),74.0,2.0,3.0,5.0,Veg,NutritionCF
+Baked Mix Vegetables (With Tomato Sauce),375.0,14.0,53.0,10.0,Veg,NutritionCF
+Baingan Aloo Vegetable,232.0,4.0,27.0,10.0,Veg,NutritionCF
+Baingan Matar Vegetable,237.0,8.0,23.0,10.0,Veg,NutritionCF
+Chhoti Elaichi Water,0.0,0.0,0.0,0.0,Veg,NutritionCF
+Cinnamon Water,0.0,0.0,0.0,0.0,Veg,NutritionCF
+Khichdi (Basmati Rice),320.0,91.0,780.0,1.0,Veg,NutritionCF
+Khichdi (Brown Rice),887.0,34.0,164.0,3.0,Veg,NutritionCF
+Black Channa Rasedar,920.0,56.0,120.0,5.0,Veg,NutritionCF
+Black Channa (Dry),882.0,55.0,111.0,5.0,Veg,NutritionCF
+Dhaniya Chutney,43.0,4.0,4.0,1.0,Veg,NutritionCF
+Green Chutney,60.0,6.0,5.0,1.0,Veg,NutritionCF
+Overnight Soaked Oats,308.0,11.0,19.0,21.0,Veg,NutritionCF
+Tomato Chutney,81.0,3.0,15.0,1.0,Veg,NutritionCF
+Chickpea Curry,134.0,6.0,15.0,5.0,Veg,NutritionCF
+Mix Vegetable Pulav,417.0,15.0,66.0,9.0,Veg,NutritionCF
+Broccoli Salad,123.0,6.0,13.0,6.0,Veg,NutritionCF
+Bajra Dosa,405.0,12.0,63.0,10.0,Veg,NutritionCF
+Parwal Aloo Vegetable,425.0,10.0,50.0,19.0,Veg,NutritionCF
+Pyaaz Sabzi,331.0,7.0,34.0,17.0,Veg,NutritionCF
+Sarson Saag,374.0,16.0,33.0,18.0,Veg,NutritionCF
+"Zucchini, Asparagus, And Bell Peppers",237.0,7.0,13.0,16.0,Veg,NutritionCF
+Spring Onions With Bell Peppers,125.0,10.0,15.0,1.0,Veg,NutritionCF
+Steamed Broccoli,180.0,11.0,28.0,3.0,Veg,NutritionCF
+Stuffed Bell Peppers,573.0,22.0,66.0,22.0,Veg,NutritionCF
+Stuffed Karela,476.0,11.0,27.0,36.0,Veg,NutritionCF
+Turnip (Shalgum) Vegetable,344.0,6.0,34.0,20.0,Veg,NutritionCF
+Pudina Chutney,41.0,3.0,3.0,0.0,Veg,NutritionCF
+Upma,500.0,17.0,77.0,13.0,Veg,NutritionCF
+Quinoa Chicken Soup,417.0,29.0,40.0,15.0,Non-veg,NutritionCF
+Anjeer Water,0.0,0.0,0.0,0.0,Veg,NutritionCF
+Dhaniya Ajwain Jaw Water,14.0,1.0,1.0,1.0,Veg,NutritionCF
+Tinda Vegetable (Gravy),139.0,5.0,18.0,3.0,Veg,NutritionCF
+Baba Ganoush With Falafel,110.0,3.0,6.0,8.0,Veg,NutritionCF
+Gobhi Matar Vegetable,213.0,11.0,23.0,6.0,Veg,NutritionCF
+Kashmiri Baingan,110.0,2.0,10.0,5.0,Veg,NutritionCF
+Kashmiri Gobhi,245.0,6.0,14.0,16.0,Veg,NutritionCF
+Kashmiri Palak,154.0,5.0,14.0,7.0,Veg,NutritionCF
+Parwal,102.0,1.0,7.0,5.0,Veg,NutritionCF
+Mushroom Vegetable,162.0,7.0,9.0,9.0,Veg,NutritionCF
+Muli Saag,178.0,6.0,14.0,7.0,Veg,NutritionCF
+Methi Aloo Vegetable,270.0,9.0,35.0,7.0,Veg,NutritionCF
+Methi Gajar Vegetable,221.0,8.0,23.0,7.0,Veg,NutritionCF
+Veg Entree (Grilled),122.0,7.0,17.0,0.0,Veg,NutritionCF
+Tomato Rice (White Rice),530.0,12.0,101.0,6.0,Veg,NutritionCF
+Moong Tikki,94.0,5.0,13.0,2.0,Veg,NutritionCF
+Kari-Patta Water,21.0,0.0,0.0,0.0,Veg,NutritionCF
+Dal Soup,48.0,2.0,6.0,1.0,Veg,NutritionCF
+Pumpkin Vegetable,111.0,3.0,13.0,4.0,Veg,NutritionCF
+Capsicum Potato Vegetable,126.0,1.0,14.0,5.0,Veg,NutritionCF
+Cauliflower Vegetable,94.0,6.0,9.0,1.0,Veg,NutritionCF
+Drumstick Curry,44.0,0.0,5.0,0.0,Veg,NutritionCF
+Ganth Gobhi Vegetable (Lump Cabbage),92.0,2.0,6.0,5.0,Veg,NutritionCF
+Dry Matar Vegetable,452.0,17.0,40.0,23.0,Veg,NutritionCF
+Beetroot Salad,34.0,2.0,4.0,1.0,Veg,NutritionCF
+Bellpepper Salad,153.0,11.0,17.0,3.0,Veg,NutritionCF
+Fresh Fruit Salad,313.0,9.0,32.0,16.0,Veg,NutritionCF
+Chicken Soup,386.0,39.0,10.0,20.0,Non-veg,NutritionCF
+2 Pieces Stuffed Idli,386.0,14.0,73.0,4.0,Veg,NutritionCF
+Haldi Water,4.0,0.0,1.0,0.0,Veg,NutritionCF
+Honey Lemon Water,10.0,0.0,2.0,0.0,Veg,NutritionCF
+Jeera Ajwain Water,35.0,1.0,1.0,1.0,Veg,NutritionCF
+Grilled Chicken Salad,156.0,15.0,6.0,5.0,Non-veg,NutritionCF
+Tandoori Chicken (2 Leg & 2 Breast),52.0,1.0,4.0,3.0,Non-veg,NutritionCF
+Mixed Fresh Fruit Juice,82.0,1.0,19.0,1.0,Veg,NutritionCF
+Shreded Chicken Dish,298.0,21.0,36.0,6.0,Non-veg,NutritionCF
+Black Rice (Pulao),415.0,11.0,74.0,8.0,Veg,NutritionCF
+Pulao,481.0,17.0,87.0,3.0,Veg,NutritionCF
+Millets (Little) (Pulav),503.0,25.0,94.0,1.0,Veg,NutritionCF
+Quinoa Khichdi,307.0,12.0,40.0,9.0,Veg,NutritionCF
+Quinoa Pulao,411.0,17.0,61.0,8.0,Veg,NutritionCF
+Ragi Dalia,411.0,7.0,52.0,19.0,Veg,NutritionCF
+Cooked Arhar Dal,184.0,6.0,21.0,8.0,Veg,NutritionCF
+Chicken Frittata,138.0,14.0,4.0,5.0,Non-veg,NutritionCF
+Roasted Fish,41.0,5.0,1.0,2.0,Non-veg,NutritionCF
+Masala Fish,114.0,8.0,6.0,7.0,Non-veg,NutritionCF
+Ghiya Vegetable (Gravy),114.0,1.0,10.0,5.0,Veg,NutritionCF
+Thai Salad With Coconut Lime Dressing,112.0,3.0,8.0,6.0,Veg,NutritionCF
+Chicken Greek Salad,152.0,15.0,9.0,5.0,Non-veg,NutritionCF
+Lettuce Avocado Salad,128.0,4.0,9.0,7.0,Veg,NutritionCF
+Almond Coriander Soup,157.0,3.0,4.0,14.0,Veg,NutritionCF
+Lemon Rice Soup,239.0,7.0,42.0,3.0,Veg,NutritionCF
+Rice Flour Laddu,331.0,6.0,52.0,11.0,Veg,NutritionCF
+Thekua,91.0,2.0,15.0,2.0,Veg,NutritionCF
+Oats Milk,114.0,4.0,20.0,2.0,Veg,NutritionCF
+Cooked Foxtail Millets,150.0,0.0,0.0,0.0,Veg,NutritionCF
+Cooked Kuddo Millets,43.0,1.0,9.0,0.0,Veg,NutritionCF
+Rice Noodles,59.0,1.0,6.0,3.0,Veg,NutritionCF
+Millet Cheela,119.0,1.0,15.0,4.0,Veg,NutritionCF
+Quinoa Cheela,517.0,17.0,81.0,12.0,Veg,NutritionCF
+Oats Dalia,107.0,2.0,9.0,6.0,Veg,NutritionCF
+Dal Tikki,143.0,3.0,10.0,10.0,Veg,NutritionCF
+"Tea (Ginger, Tulsi, Cardamon, Cinnamon Sticks, Black Pepper)",369.0,14.0,31.0,21.0,Veg,NutritionCF
+Spinach Salad,209.0,2.0,9.0,21.0,Veg,NutritionCF
+Jawar Stuffed Roti (Aloo),57.0,0.0,2.0,5.0,Veg,NutritionCF
+Aam Ras,208.0,7.0,26.0,8.0,Veg,NutritionCF
+Lemon Coriander Soup,20.0,0.0,1.0,2.0,Veg,NutritionCF
+Chicken Stew,34.0,3.0,2.0,1.0,Non-veg,NutritionCF
+Moong Dal Puree,84.0,2.0,8.0,5.0,Veg,NutritionCF
+Rice Dosa,144.0,5.0,30.0,0.0,Veg,NutritionCF
+Quinoa Cutlet,184.0,3.0,27.0,9.0,Veg,NutritionCF
+Broccoli With Mix Bell Pepper Vegetable,929.0,34.0,102.0,37.0,Veg,NutritionCF
+Ragi Flour Cheela,370.0,5.0,50.0,15.0,Veg,NutritionCF
+Rice Flour Cheela,259.0,2.0,25.0,15.0,Veg,NutritionCF
+Vegetable Juice(Cucumber+Ghiya+1 Carrot),67.0,3.0,13.0,0.0,Veg,NutritionCF
+"Veg Shredded,Green Peas Mushroom Vegetable",360.0,13.0,46.0,11.0,Veg,NutritionCF
+Lemon Rice Soup With Red Rice,154.0,2.0,19.0,10.0,Veg,NutritionCF
+Baingan Vegetable,278.0,9.0,39.0,6.0,Veg,NutritionCF
+Millets Cheela,233.0,3.0,20.0,16.0,Veg,NutritionCF
+Ragi Soup,230.0,4.0,34.0,8.0,Veg,NutritionCF
+Fish Salad 1,378.0,37.0,14.0,17.0,Non-veg,NutritionCF
+Rice Flour Wrap With Chicken And Veggies,330.0,13.0,40.0,12.0,Non-veg,NutritionCF
+Masoor Dal Sambar,157.0,5.0,14.0,9.0,Veg,NutritionCF
+Moong Dal Tikki,118.0,4.0,15.0,5.0,Veg,NutritionCF
+Oatmeal,375.0,8.0,18.0,27.0,Veg,NutritionCF
+Boiled Aloo Chat,176.0,2.0,29.0,5.0,Veg,NutritionCF
+Saunf Ajwain Water,7.0,0.0,1.0,0.0,Veg,NutritionCF
+Red Rice,46.0,1.0,10.0,0.0,Veg,NutritionCF
+Saunf Elaichi Water,13.0,0.0,2.0,0.0,Veg,NutritionCF
+Classic Avocado Salad,597.0,13.0,25.0,51.0,Veg,NutritionCF
+Corn Avocado Salad,748.0,16.0,41.0,59.0,Veg,NutritionCF
+Spinach Vegetable,71.0,2.0,14.0,0.0,Veg,NutritionCF
+Spinach Vegetable 2,37.0,1.0,5.0,1.0,Veg,NutritionCF
+Upma,64.0,3.0,8.0,2.0,Veg,NutritionCF
+"Dhaniya Jeera, Saunf Water",3.0,0.0,0.0,0.0,Veg,NutritionCF
+Shredded Chicken Breast Dry Gravy,632.0,90.0,26.0,15.0,Non-veg,NutritionCF
+"Arugula Salad(Cheery Tomato,Carrot,Cucumber And Radish)",112.0,2.0,8.0,8.0,Veg,NutritionCF
+"Baby Spinach Salad(Cherry Tomato,Carrot,Cucumber And Radish)",116.0,2.0,9.0,8.0,Veg,NutritionCF
+"Lettuce Salad(Cheery Tomato,Carrot,Cucumber And Radish)",102.0,2.0,7.0,8.0,Veg,NutritionCF
+Gobhi Gajar Matar Without Oil,577.0,24.0,53.0,29.0,Veg,NutritionCF
+Gobhi Gajar Matar With Oil,486.0,22.0,53.0,18.0,Veg,NutritionCF
+Grilled Basa Fish,315.0,20.0,4.0,24.0,Non-veg,NutritionCF
+"Cucumber ,Onion,Tomato And Carrot Salad",40.0,0.0,8.0,0.0,Veg,NutritionCF
+"Vegetable Smoothie (Cucumber,Carrot,Beetroot And Apple)",72.0,2.0,14.0,1.0,Veg,NutritionCF
+Baigan Bharta,45.0,1.0,7.0,1.0,Veg,NutritionCF
+Jowar Cheela,536.0,17.0,93.0,9.0,Veg,NutritionCF
+Brinjal Vegetable,247.0,10.0,33.0,2.0,Veg,NutritionCF
+Fenugreek Vegetable,229.0,10.0,28.0,8.0,Veg,NutritionCF
+Roasted Vegetable,873.0,27.0,140.0,19.0,Veg,NutritionCF
+Mixed Vegetable Bhaji,1254.0,56.0,142.0,60.0,Veg,NutritionCF
+Qunoia Flour Cheela,703.0,20.0,92.0,27.0,Veg,NutritionCF
+Steamed /Blanched Vegetable,343.0,13.0,46.0,9.0,Veg,NutritionCF
+Rasam,47.0,0.0,7.0,1.0,Veg,NutritionCF
+Kala Chana Sprouts,73.0,4.0,10.0,1.0,Veg,NutritionCF
+Sauteed Vegetables,195.0,1.0,8.0,15.0,Veg,NutritionCF
+Pasta Salad,581.0,9.0,93.0,17.0,Veg,NutritionCF
+Brown Rice Pulao,548.0,13.0,82.0,16.0,Veg,NutritionCF
+Onion Masala Salad,90.0,5.0,15.0,1.0,Veg,NutritionCF
+Dhaniya Chutney,54.0,5.0,4.0,2.0,Veg,NutritionCF
+Salted Roasted Makhana,322.0,8.0,62.0,5.0,Veg,NutritionCF
+Chicken Do Pyaza,1013.0,159.0,28.0,24.0,Non-veg,NutritionCF
+Chicken Kebab,1721.0,107.0,28.0,109.0,Non-veg,NutritionCF
+Green Chutney,86.0,7.0,10.0,1.0,Veg,NutritionCF
+Kali Masoor Chat,229.0,13.0,41.0,1.0,Veg,NutritionCF
+Chana Salad,414.0,25.0,63.0,8.0,Veg,NutritionCF
+Kala Chana Chat,363.0,18.0,54.0,4.0,Veg,NutritionCF
+Spinach Chana Dal Cutlet,573.0,22.0,69.0,24.0,Veg,NutritionCF
+Vegetable Soup With Quinoa,219.0,6.0,32.0,6.0,Veg,NutritionCF
+Low-Fat Bajra Cheela,553.0,19.0,91.0,13.0,Veg,NutritionCF
+Low-Fat Grilled Chicken Breast,1122.0,156.0,4.0,48.0,Non-veg,NutritionCF
+Roasted Makhana Bhel Without Peanuts,329.0,8.0,60.0,3.0,Veg,NutritionCF
+Sprouts Cheela,521.0,25.0,70.0,16.0,Veg,NutritionCF
+"Bell Pepper, Onion, And Tomato Vegetable",142.0,3.0,17.0,5.0,Veg,NutritionCF
+Chicken Gravy (Low-Fat),676.0,56.0,19.0,40.0,Non-veg,NutritionCF
+Tomato Basil Soup,112.0,2.0,10.0,8.0,Veg,NutritionCF
+"Saute Zucchini, Asparagus, And Bell Peppers",130.0,2.0,5.0,11.0,Veg,NutritionCF
+Style Roasted Makhana,219.0,5.0,25.0,13.0,Veg,NutritionCF
+Kalimirch Chicken,1826.0,109.0,26.0,119.0,Non-veg,NutritionCF
+Low Fat Besan Cheela,139.0,7.0,19.0,3.0,Veg,NutritionCF
+Low Fat Dal Cheela,324.0,12.0,32.0,15.0,Veg,NutritionCF
+Tinda Vegetable (Low Fat),116.0,3.0,9.0,8.0,Veg,NutritionCF
+Green Chutney Without Any Nuts,66.0,4.0,8.0,0.0,Veg,NutritionCF
+French Fries,149.0,2.0,22.0,5.0,Veg,NutritionCF
+Saute Bell Pepper,320.0,3.0,12.0,28.0,Veg,NutritionCF
+Chatpate Mushroom,146.0,6.0,12.0,5.0,Veg,NutritionCF
+Mushroom Pepper Masala,206.0,8.0,24.0,5.0,Veg,NutritionCF
+Potato Mushroom Kebab,211.0,6.0,28.0,8.0,Veg,NutritionCF
+Mushroom Soup,379.0,15.0,27.0,24.0,Veg,NutritionCF
+Mushroom Capsicum Onion Vegetable,158.0,5.0,13.0,6.0,Veg,NutritionCF
+Mushroom Do Pyaza,180.0,7.0,15.0,7.0,Veg,NutritionCF
+Mushroom Masala,176.0,6.0,16.0,7.0,Veg,NutritionCF
+Spinach Masala,201.0,8.0,21.0,7.0,Veg,NutritionCF
+Mushroom Saute,160.0,6.0,15.0,6.0,Veg,NutritionCF
+Stuffed Mushroom,43.0,3.0,6.0,0.0,Veg,NutritionCF
+Methi Mushroom Vegetable,244.0,11.0,22.0,8.0,Veg,NutritionCF
+Dry Matar Mushroom Vegetable,315.0,17.0,40.0,6.0,Veg,NutritionCF
+Kala Channa Tikki,160.0,5.0,19.0,6.0,Veg,NutritionCF
+Salami Sandwich (Chicken),137.0,13.0,10.0,5.0,Non-veg,NutritionCF
+Chicken Sandwich,277.0,16.0,44.0,3.0,Non-veg,NutritionCF
+Stuffed Oats Bran Wheat Roti,134.0,4.0,12.0,5.0,Veg,NutritionCF
+Wheat Porridge,290.0,9.0,57.0,2.0,Veg,NutritionCF
+Chicken Shawarma (With Pita Bread And Curd),535.0,56.0,5.0,31.0,Non-veg,NutritionCF
+Open Sandwich,197.0,5.0,23.0,11.0,Veg,NutritionCF
+Bread Poha,97.0,2.0,5.0,6.0,Veg,NutritionCF
+Chicken Bread Roll,140.0,14.0,15.0,3.0,Non-veg,NutritionCF
+Whole Wheat Bread,546.0,15.0,84.0,17.0,Veg,NutritionCF
+Bruschetta,107.0,3.0,10.0,7.0,Veg,NutritionCF
+Veg Sandwich,138.0,4.0,25.0,1.0,Veg,NutritionCF
+Suji Veggie Pocket,221.0,7.0,33.0,5.0,Veg,NutritionCF
+Wheat Roti,96.0,3.0,19.0,0.0,Veg,NutritionCF
+Chicken Wheat Wrap,239.0,17.0,14.0,11.0,Non-veg,NutritionCF
+Oats Wrap,202.0,9.0,34.0,4.0,Veg,NutritionCF
+Bread Roll,85.0,1.0,3.0,8.0,Veg,NutritionCF
+Avocado Toast,215.0,4.0,21.0,15.0,Veg,NutritionCF
+Poori,265.0,25.0,154.0,29.0,Veg,NutritionCF
+Suji Idli,496.0,17.0,86.0,9.0,Veg,NutritionCF
+Missi Roti,348.0,13.0,52.0,9.0,Veg,NutritionCF
+Aloo Toast,172.0,4.0,35.0,2.0,Veg,NutritionCF
+Wheat Bran Roti Roll,147.0,3.0,19.0,5.0,Veg,NutritionCF
+Wheat Palak Wrap,1072.0,34.0,198.0,13.0,Veg,NutritionCF
+Stuffed Jau Roti (Spinach),254.0,5.0,20.0,17.0,Veg,NutritionCF
+Oats Stuffed Roti (Fenugreek),185.0,7.0,34.0,2.0,Veg,NutritionCF
+Oats Cheela,454.0,18.0,69.0,12.0,Veg,NutritionCF
+Stuffed Wheat Bran Roti,264.0,7.0,44.0,6.0,Veg,NutritionCF
+Vermicelli,710.0,24.0,117.0,14.0,Veg,NutritionCF
+Dal Wali Roti,263.0,13.0,42.0,2.0,Veg,NutritionCF
+Ragi Roti (20% Ragi & 80% Wheat),255.0,4.0,23.0,16.0,Veg,NutritionCF
+Ragi Roti (50% Ragi & 50% Normal Atta),597.0,13.0,95.0,17.0,Veg,NutritionCF
+Soya Flour Roti (20% Soya Flour + 80% Wheat),346.0,16.0,57.0,5.0,Veg,NutritionCF
+Soya Wheat Roti (50% Soya Atta & 50% Wheat Atta),475.0,29.0,59.0,14.0,Veg,NutritionCF
+Bran Roti (25% Wheat Bran & 75 % Normal Atta),159.0,6.0,33.0,1.0,Veg,NutritionCF
+Bran Roti (20% Wheat Bran & 80% Wheat),407.0,12.0,69.0,10.0,Veg,NutritionCF
+Wheat Burger With Oats Tikki & Salad,236.0,2.0,43.0,5.0,Veg,NutritionCF
+Banana Bread (Eggless),1231.0,44.0,251.0,6.0,Veg,NutritionCF
+Plain Roti With Veggies,243.0,8.0,37.0,6.0,Veg,NutritionCF
+Wheat Roti With Veggie Wrap,176.0,7.0,30.0,3.0,Veg,NutritionCF
+Suji Dhokla,235.0,8.0,43.0,3.0,Veg,NutritionCF
+Noodles Vegetable Sizzler,190.0,8.0,27.0,2.0,Veg,NutritionCF
+Avocado Sandwich,195.0,6.0,40.0,0.0,Veg,NutritionCF
+Cocktail Idli,154.0,2.0,9.0,11.0,Veg,NutritionCF
+Suji Wrap,232.0,9.0,39.0,4.0,Veg,NutritionCF
+Chicken Wheat Noodles,231.0,22.0,21.0,7.0,Non-veg,NutritionCF
+Ragi Roti (30% Oats Bran + 70% Ragi Atta),91.0,3.0,18.0,0.0,Veg,NutritionCF
+Wheat Roti (20% Quinoa Flour + 80% Wheat Flour),166.0,6.0,32.0,2.0,Veg,NutritionCF
+Jau Roti (20% Jau Atta And 80% Wheat Atta),311.0,10.0,62.0,1.0,Veg,NutritionCF
+Jau Roti (50% Jau Atta & 50% Oats Atta),343.0,12.0,61.0,5.0,Veg,NutritionCF
+20% Flaxseed Flour 80% Wheat Flour Roti,195.0,7.0,13.0,13.0,Veg,NutritionCF
+Jawar Roti (20% Jawar & 80% Wheat),223.0,7.0,45.0,1.0,Veg,NutritionCF
+Baba Ganoush With Pita Bread,289.0,10.0,46.0,7.0,Veg,NutritionCF
+Vermicelli Rolls,401.0,12.0,83.0,1.0,Veg,NutritionCF
+Wheat Pasta (Veg),86.0,5.0,11.0,1.0,Veg,NutritionCF
+Wheat Pasta (Non-Veg),167.0,13.0,18.0,4.0,Non-veg,NutritionCF
+Bajra Roti (100%),696.0,22.0,124.0,11.0,Veg,NutritionCF
+Bajra Roti (50% Bajra Atta & 50% Normal Atta),396.0,13.0,72.0,5.0,Veg,NutritionCF
+Bajra Roti (20% Bajra & 80% Wheat),220.0,275.0,1548.0,136.0,Veg,NutritionCF
+Oats Bread,192.0,6.0,25.0,8.0,Veg,NutritionCF
+Besan Roti (20% Besan & 80% Wheat),90.0,3.0,18.0,0.0,Veg,NutritionCF
+Oats Bran Roti (50% Oats Bran And 50% Normal (Wheat) Atta),146.0,9.0,37.0,3.0,Veg,NutritionCF
+Oats Bran Roti (20% Oats Bran And 80% Normal (Wheat) Atta),178.0,10.0,43.0,3.0,Veg,NutritionCF
+Quinoa Flour Roti (20% Quinoa Flour & 80% Wheat),269.0,10.0,49.0,3.0,Veg,NutritionCF
+Ragi Roti (25% Ragi & 75% Normal Atta),100.0,4.0,21.0,0.0,Veg,NutritionCF
+Dal Peetha,239.0,9.0,39.0,5.0,Veg,NutritionCF
+Tawa Roti,192.0,7.0,39.0,1.0,Veg,NutritionCF
+Missi Roti(1/3 Besan & 1/3 Wheat Atta & 1/3 Wheat Bran),1494.0,55.0,264.0,27.0,Veg,NutritionCF
+Open Sandwich With One Slice,157.0,8.0,30.0,0.0,Veg,NutritionCF
+50% Barley Atta & 50% Oats Atta Roti,367.0,12.0,70.0,4.0,Veg,NutritionCF
+Garlic Toast,252.0,6.0,31.0,12.0,Veg,NutritionCF
+Ragi Roti (50% Ragi Atta + 50% Wheat Atta),100.0,4.0,20.0,1.0,Veg,NutritionCF
+Quinoa Flour Roti (50% Quinoa Flour + 50% Normal Atta),258.0,10.0,48.0,3.0,Veg,NutritionCF
+Oats Bran Roti,386.0,13.0,66.0,7.0,Veg,NutritionCF
+Bajra Roti(50% Bajra & 50 % Wheat Atta),53.0,2.0,11.0,0.0,Veg,NutritionCF
+Amaranth Flour Roti,2.0,2.0,4.0,1.0,Veg,NutritionCF
+Amaranth Flour Roti 50% Amaranth Flour And 50% Wheat Flour,33.0,2.0,9.0,1.0,Veg,NutritionCF
+Bread Poha With Brown Bread,107.0,3.0,19.0,1.0,Veg,NutritionCF
+Ragi Roti Without Oil,0.0,0.0,0.0,0.0,Veg,NutritionCF
+Vegetable Wheat Vermicelli,135.0,4.0,19.0,4.0,Veg,NutritionCF
+Amarnath Roti(50%Almond Flour+50%Normal Atta),380.0,23.0,80.0,12.0,Veg,NutritionCF
+Veggies Stuffed Jaw Roti,955.0,23.0,134.0,37.0,Veg,NutritionCF
+Whole Wheat Bread Poha,292.0,6.0,25.0,18.0,Veg,NutritionCF
+Oats Bran Roti(50% Oats Bran & 50% Wheat Atta),496.0,20.0,52.0,23.0,Veg,NutritionCF
+Garlic And Tomato Salad,69.0,4.0,9.0,1.0,Veg,NutritionCF
+Fish Curry,196.0,22.0,12.0,6.0,Non-veg,NutritionCF
+Fish Salad,400.0,43.0,6.0,20.0,Non-veg,NutritionCF
+Grilled Fish,305.0,21.0,0.0,25.0,Non-veg,NutritionCF
+Masala Fish Fry,22.0,4.0,1.0,0.0,Non-veg,NutritionCF
+Non-Veg Platter (Fish),53.0,9.0,2.0,1.0,Non-veg,NutritionCF
+Samakiya Rice,180.0,3.0,37.0,1.0,Non-veg,NutritionCF
+Fish Tikka,238.0,30.0,4.0,10.0,Non-veg,NutritionCF
+Baked Fish,168.0,19.0,0.0,9.0,Non-veg,NutritionCF
+Fish Cutlet (Grilled/Roasted),216.0,16.0,13.0,10.0,Non-veg,NutritionCF
+Fish Tikka Kebab,177.0,17.0,2.0,10.0,Non-veg,NutritionCF
+Fish Sizzler,106.0,7.0,13.0,3.0,Non-veg,NutritionCF
+Lettuce Wrapped Fish,110.0,8.0,3.0,7.0,Non-veg,NutritionCF
+Egg White Omelette,74.0,7.0,0.0,5.0,Eggetarian,NutritionCF
+Egg White Scrambled,35.0,2.0,1.0,3.0,Eggetarian,NutritionCF
+Poached Egg White,85.0,8.0,0.0,5.0,Eggetarian,NutritionCF
+Egg Bhurji,117.0,8.0,3.0,8.0,Eggetarian,NutritionCF
+Egg White Salad,91.0,15.0,6.0,0.0,Eggetarian,NutritionCF
+Egg Salad,347.0,18.0,5.0,28.0,Eggetarian,NutritionCF
+Egg White Fritatta,110.0,11.0,2.0,5.0,Eggetarian,NutritionCF
+"Carrot, Bell Pepper, Broccoli, Cucumber , Beetroot Salad And Egg Salad",144.0,11.0,21.0,0.0,Eggetarian,NutritionCF
+Roast Chicken Tomato Salad,192.0,13.0,7.0,12.0,Non-veg,NutritionCF
+Egg Rice,143.0,5.0,23.0,2.0,Eggetarian,NutritionCF
+Masala Omelette,74.0,5.0,1.0,5.0,Eggetarian,NutritionCF
+Banana Bread (Egg),121.0,6.0,18.0,4.0,Eggetarian,NutritionCF
+Veggies And Egg Soup,83.0,3.0,16.0,0.0,Eggetarian,NutritionCF
+Egg Wheat Noodles,192.0,15.0,31.0,1.0,Eggetarian,NutritionCF
+Egg Curry,122.0,10.0,3.0,8.0,Eggetarian,NutritionCF
+Egg Sunny Sideup,69.0,5.0,0.0,5.0,Non-veg,NutritionCF
+Egg White Sandwich,231.0,13.0,30.0,7.0,Eggetarian,NutritionCF
+Egg White Boiled,69.0,7.0,0.0,5.0,Eggetarian,NutritionCF
+Kale Mushroom Frittata With 2 Egg Whites,128.0,18.0,4.0,3.0,Eggetarian,NutritionCF
+French Toast With 2 Egg Whites And Whole Wheat Bread,197.0,11.0,21.0,7.0,Eggetarian,NutritionCF
+Egg White Curry,210.0,2.0,14.0,5.0,Eggetarian,NutritionCF
+Egg White Omelette With Mushroom,249.0,13.0,11.0,15.0,Eggetarian,NutritionCF
+Egg Bhurji With 3 Egg Whites And 1 Yolk,253.0,18.0,11.0,13.0,Eggetarian,NutritionCF
+Egg Fritttata With High Fiber,530.0,43.0,8.0,36.0,Eggetarian,NutritionCF
+Egg Frittata With High Fiber Content And Low Fat,645.0,45.0,14.0,44.0,Eggetarian,NutritionCF
+Paneer Tikki,116.0,3.0,5.0,8.0,Veg,NutritionCF
+Dahi Paneer Kebab,284.0,10.0,6.0,23.0,Veg,NutritionCF
+French Toast Baked,102.0,6.0,15.0,1.0,Veg,NutritionCF
+Filter Coffee (Skimmed Milk),70.0,6.0,11.0,0.0,Veg,NutritionCF
+Chikoo Shake,234.0,4.0,50.0,2.0,Veg,NutritionCF
+Paneer Satay,126.0,10.0,8.0,5.0,Veg,NutritionCF
+Paneer Cutlets,547.0,30.0,45.0,27.0,Veg,NutritionCF
+Chicken Tikka,277.0,27.0,6.0,18.0,Non-veg,NutritionCF
+Quinoa Tikki,230.0,6.0,32.0,10.0,Veg,NutritionCF
+Paneer Bhurji,192.0,9.0,8.0,12.0,Veg,NutritionCF
+Murgh Palak Korma Kebab,290.0,30.0,5.0,17.0,Non-veg,NutritionCF
+Paneer Masala,554.0,31.0,35.0,31.0,Veg,NutritionCF
+Papaya Shake,68.0,5.0,11.0,0.0,Veg,NutritionCF
+Peas Raita,226.0,13.0,18.0,11.0,Veg,NutritionCF
+Garlic Cheese Toast,230.0,6.0,14.0,16.0,Veg,NutritionCF
+Banana Shake,184.0,8.0,37.0,1.0,Veg,NutritionCF
+Lauki Raita,37.0,4.0,4.0,1.0,Veg,NutritionCF
+Egg Sandwich,313.0,16.0,27.0,16.0,Eggetarian,NutritionCF
+Beetroot Raita,160.0,8.0,9.0,10.0,Veg,NutritionCF
+Cucumber Raita,173.0,8.0,10.0,11.0,Veg,NutritionCF
+Almond And Raisins Raita,168.0,8.0,9.0,11.0,Veg,NutritionCF
+French Toast,180.0,7.0,20.0,8.0,Veg,NutritionCF
+Mango Shake,233.0,10.0,46.0,2.0,Veg,NutritionCF
+Strawberry Shake,79.0,7.0,13.0,0.0,Veg,NutritionCF
+Aloo Raita,534.0,55.0,73.0,6.0,Veg,NutritionCF
+Lettuce Wrap (Paneer),165.0,7.0,8.0,10.0,Veg,NutritionCF
+Paneer Pakora,451.0,27.0,37.0,17.0,Veg,NutritionCF
+Paneer & Salsa Tortilla Wrap,247.0,13.0,18.0,12.0,Veg,NutritionCF
+Rawa Dosa,642.0,18.0,95.0,19.0,Veg,NutritionCF
+Malai Tikka,514.0,37.0,26.0,29.0,Veg,NutritionCF
+Hung Curd Salad,409.0,23.0,56.0,8.0,Veg,NutritionCF
+Mint Raita,45.0,7.0,5.0,1.0,Veg,NutritionCF
+Lauki Raita (Lactose Free),47.0,7.0,5.0,1.0,Veg,NutritionCF
+Rice Paneer Sizzler,134.0,5.0,14.0,6.0,Veg,NutritionCF
+Paneer Salad,332.0,23.0,25.0,15.0,Veg,NutritionCF
+Suji Cheela,239.0,8.0,37.0,4.0,Veg,NutritionCF
+Kadhi (No Pakora),551.0,27.0,48.0,26.0,Veg,NutritionCF
+Paneer Roti,262.0,13.0,38.0,6.0,Veg,NutritionCF
+Paneer Sandwich,334.0,15.0,28.0,18.0,Veg,NutritionCF
+Paneer Tikka,152.0,7.0,7.0,10.0,Veg,NutritionCF
+Yogurt Kebab,281.0,23.0,18.0,12.0,Veg,NutritionCF
+Saute Paneer,282.0,15.0,10.0,19.0,Veg,NutritionCF
+Makhana Milk,701.0,18.0,89.0,10.0,Veg,NutritionCF
+Milk Tea,45.0,5.0,7.0,0.0,Veg,NutritionCF
+Chicken Biryani,763.0,25.0,37.0,35.0,Non-veg,NutritionCF
+Cheesy Chicken Patties (Tikki),491.0,30.0,7.0,37.0,Non-veg,NutritionCF
+Achari Tikka (Paneer),1186.0,68.0,68.0,73.0,Veg,NutritionCF
+Paneer Wrap In Soya Palak Roti,210.0,11.0,28.0,4.0,Veg,NutritionCF
+Dahi Vada,179.0,8.0,17.0,9.0,Veg,NutritionCF
+Curd Rice,483.0,12.0,84.0,9.0,Veg,NutritionCF
+Matar Paneer,631.0,33.0,42.0,35.0,Veg,NutritionCF
+Palak Paneer,893.0,52.0,57.0,49.0,Veg,NutritionCF
+Palak Mushroom,811.0,47.0,44.0,48.0,Veg,NutritionCF
+Pineapple Raita,22.0,1.0,3.0,1.0,Veg,NutritionCF
+Strawberry Yogurt,144.0,7.0,12.0,8.0,Veg,NutritionCF
+Vegetable Raita,207.0,9.0,23.0,8.0,Veg,NutritionCF
+Chicken Salad,705.0,88.0,7.0,36.0,Non-veg,NutritionCF
+Broccoli Soup,297.0,12.0,28.0,16.0,Veg,NutritionCF
+Smoothie (In Curd),218.0,7.0,14.0,15.0,Veg,NutritionCF
+Masala Tea,40.0,4.0,6.0,0.0,Veg,NutritionCF
+Tea,15.0,1.0,3.0,0.0,Veg,NutritionCF
+Haldi Milk,42.0,3.0,7.0,0.0,Veg,NutritionCF
+Coffee Double Expresso (Skimmed Milk),40.0,3.0,6.0,0.0,Veg,NutritionCF
+Chilli Paneer,254.0,12.0,9.0,17.0,Veg,NutritionCF
+Corn Cutlet,137.0,3.0,19.0,5.0,Veg,NutritionCF
+Chilli Paneer & Baby Corn,148.0,5.0,8.0,10.0,Veg,NutritionCF
+"Chilli Paneer With Salad (Bell Peppers, Broccoli & Cherry Tomatoes)",282.0,12.0,16.0,17.0,Veg,NutritionCF
+Dal Kebab,96.0,4.0,12.0,3.0,Veg,NutritionCF
+Dahi Channa Kebab,417.0,20.0,57.0,12.0,Veg,NutritionCF
+Grilled Paneer,76.0,4.0,3.0,6.0,Veg,NutritionCF
+Pav Bhaji,548.0,27.0,77.0,11.0,Veg,NutritionCF
+Paneer Tikka Kathi Roll,403.0,23.0,57.0,7.0,Veg,NutritionCF
+Noodles Paneer Sizzler,521.0,27.0,26.0,33.0,Veg,NutritionCF
+Methi Paneer Vegetable,239.0,11.0,12.0,12.0,Veg,NutritionCF
+Mushroom Paneer Masala,213.0,15.0,17.0,7.0,Veg,NutritionCF
+Vegetable Idli (Rice Idli),59.0,1.0,10.0,1.0,Veg,NutritionCF
+Samakhia Kheer,273.0,10.0,31.0,12.0,Veg,NutritionCF
+Makhana Kheer,277.0,15.0,50.0,2.0,Veg,NutritionCF
+Reshami Tikka,28.0,4.0,2.0,1.0,Veg,NutritionCF
+Reshami Tikka (Paneer),157.0,9.0,13.0,6.0,Veg,NutritionCF
+Risotto Recipe (No Cheese),980.0,20.0,185.0,16.0,Veg,NutritionCF
+Besan Milk,47.0,3.0,7.0,1.0,Veg,NutritionCF
+Curd,183.0,8.0,13.0,11.0,Veg,NutritionCF
+Boondi Raita,194.0,11.0,13.0,11.0,Veg,NutritionCF
+Beetroot And Paneer Salad,104.0,11.0,9.0,2.0,Veg,NutritionCF
+Creamy Cucumber Salad,34.0,3.0,1.0,2.0,Veg,NutritionCF
+Carrot Milk,247.0,10.0,23.0,3.0,Veg,NutritionCF
+Buttermilk,93.0,5.0,5.0,1.0,Veg,NutritionCF
+Mushroom Soup (With Almond Milk),180.0,8.0,8.0,13.0,Veg,NutritionCF
+Broccoli Soup (With Lactose Free Milk),304.0,15.0,7.0,3.0,Veg,NutritionCF
+Paneer Capsicum Onion Vegetable,559.0,27.0,37.0,33.0,Veg,NutritionCF
+Hazelnut Asian Lettuce Wrap (Vegetarian With Paneer),330.0,16.0,32.0,14.0,Veg,NutritionCF
+Green Beans Paneer Vegetable,270.0,16.0,18.0,13.0,Veg,NutritionCF
+Dahi Aloo Gravy,163.0,5.0,21.0,5.0,Veg,NutritionCF
+Cold Coffee,100.0,6.0,12.0,0.0,Veg,NutritionCF
+Fruit Raita,239.0,8.0,26.0,10.0,Veg,NutritionCF
+Grilled Caesar Salad (Non Veg),199.0,19.0,11.0,9.0,Non-veg,NutritionCF
+Bathua Raita,98.0,6.0,7.0,4.0,Veg,NutritionCF
+Sugarcane Kheer,150.0,4.0,31.0,2.0,Veg,NutritionCF
+Spinach And Walnut Raita,140.0,5.0,7.0,11.0,Veg,NutritionCF
+Homemade Paneer,20.0,0.0,1.0,1.0,Veg,NutritionCF
+Herb Paneer,14.0,1.0,1.0,1.0,Veg,NutritionCF
+Paneer Kebab,141.0,2.0,5.0,4.0,Veg,NutritionCF
+Coffee Espresso (Skimmed Milk),80.0,6.0,11.0,0.0,Veg,NutritionCF
+Greek Salad,128.0,2.0,9.0,1.0,Veg,NutritionCF
+Hariyali Tikka Veg,104.0,4.0,3.0,8.0,Veg,NutritionCF
+Lactose Free Milk Coffee With Brown Sugar,200.0,7.0,12.0,4.0,Veg,NutritionCF
+Skimmed Milk Coffee Without Sugar,74.0,6.0,12.0,0.0,Veg,NutritionCF
+Gujiya,1192.0,15.0,126.0,68.0,Veg,NutritionCF
+Rice Kheer,223.0,1.0,12.0,5.0,Veg,NutritionCF
+Paneer Wrap(Cabbage Leaves),679.0,27.0,50.0,39.0,Veg,NutritionCF
+Paneer Wrap(Icebarg Leaves),530.0,26.0,33.0,33.0,Veg,NutritionCF
+Smoothie,265.0,15.0,23.0,13.0,Veg,NutritionCF
+Pumpkin Soup,82.0,4.0,10.0,3.0,Veg,NutritionCF
+Tea With Skimmed Milk,36.0,2.0,7.0,0.0,Veg,NutritionCF
+Paneer Stuffed Roti,199.0,7.0,39.0,1.0,Veg,NutritionCF
+Saute Paneer For Fasting,10.0,0.0,0.0,0.0,Veg,NutritionCF
+Paneer Stuffed Roti Using A Combination Of Oats Bran And Oats Atta,36.0,0.0,0.0,0.0,Veg,NutritionCF
+Paneer Vegetable Curry,44.0,2.0,7.0,1.0,Veg,NutritionCF
+Garden Cress Seeds Kheer Without Sugar,68.0,1.0,5.0,5.0,Veg,NutritionCF
+Style Beetroot & Paneer Salad,20.0,1.0,4.0,0.0,Veg,NutritionCF
+Buttermilk(Toned Milk),147.0,8.0,13.0,8.0,Veg,NutritionCF
+Banana Smoothie,258.0,2.0,59.0,0.0,Veg,NutritionCF
+Mango Smoothie,145.0,1.0,32.0,1.0,Veg,NutritionCF
+Strawberry Smoothie With Skimmed Milk,123.0,0.0,31.0,0.0,Veg,NutritionCF
+Apple Smoothie With Skimmed Milk,186.0,9.0,40.0,0.0,Veg,NutritionCF
+Oatmeal Skimmed Milk,354.0,13.0,66.0,5.0,Veg,NutritionCF
+Qunioa Porridge With Double Toned Milk,960.0,36.0,91.0,52.0,Veg,NutritionCF
+Oats Smoothie With Sugar Skimmed Milk,186.0,11.0,32.0,1.0,Veg,NutritionCF
+Hung Curd Salad,79.0,3.0,6.0,3.0,Veg,NutritionCF
+Matar Paneer (With Low Fat),919.0,56.0,76.0,39.0,Veg,NutritionCF
+Cauliflower Paneer Tikki,112.0,8.0,10.0,6.0,Veg,NutritionCF
+Paneer Tikka In Green Chutney,720.0,47.0,33.0,40.0,Veg,NutritionCF
+Paneer Kebab,776.0,49.0,44.0,42.0,Veg,NutritionCF
+Nuts And Seeds Raita With Skimmed Milk Curd,188.0,16.0,4.0,10.0,Veg,NutritionCF
+Low Fat Paneer Tikki,1017.0,56.0,74.0,57.0,Veg,NutritionCF
+No Fat Grilled Chicken Breast With Skimmed Milk Curd,270.0,42.0,9.0,6.0,Non-veg,NutritionCF
+Coffee (Skimmed Milk),19.0,1.0,1.0,0.0,Veg,NutritionCF
+Nimbupani,11.0,0.0,0.0,0.0,Veg,NutritionCF
+Lemon Water,0.0,0.0,0.0,0.0,Veg,NutritionCF
+Dalcheeni Water,0.0,0.0,0.0,0.0,Veg,NutritionCF
+Besan Cheela,277.0,15.0,38.0,5.0,Veg,NutritionCF
+Filter Coffee Without Sugar,60.0,2.0,3.0,0.0,Veg,NutritionCF
+Black Filter Coffee Without Sugar,0.0,0.0,0.0,0.0,Veg,NutritionCF

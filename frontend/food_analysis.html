@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Analysis - G&G</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="background-overlay"></div>
+
+    <!-- Sidebar -->
+    <nav class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <h2>G&G</h2>
+            <button class="sidebar-close" id="sidebarClose">✕</button>
+        </div>
+        <ul class="sidebar-nav">
+            <li><a href="index.html"><span class="nav-icon">🏠</span> Home</a></li>
+            <li><a href="food_analysis.html" class="active"><span class="nav-icon">🍽️</span> Food Analysis</a></li>
+        </ul>
+    </nav>
+    <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+    <div class="container fade-in has-sidebar">
+        <!-- Hamburger button -->
+        <button class="sidebar-toggle" id="sidebarToggle">☰</button>
+
+        <header>
+            <h1 class="main-heading">Food Analysis</h1>
+            <p class="subheading">Upload a food image and get instant nutritional breakdown powered by AI.</p>
+        </header>
+
+        <main>
+            <div class="card form-card">
+                <h2 class="section-title">Upload Food Image</h2>
+
+                <div class="upload-area" id="uploadArea">
+                    <div class="upload-placeholder" id="uploadPlaceholder">
+                        <span class="upload-icon">📸</span>
+                        <p>Click or drag & drop a food image here</p>
+                        <span class="upload-hint">Supports JPG, PNG, WEBP</span>
+                    </div>
+                    <img id="imagePreview" class="image-preview hidden" alt="Food preview">
+                    <input type="file" id="foodImageInput" accept="image/*" hidden>
+                </div>
+
+                <button id="analyzeBtn" class="btn-primary" disabled>Analyze Food</button>
+            </div>
+
+            <!-- Loading -->
+            <div id="analysisLoading" class="text-center hidden">
+                <div class="spinner"></div>
+                <p>Analyzing your food... This may take a moment.</p>
+            </div>
+
+            <!-- Results -->
+            <div id="analysisResults" class="hidden">
+                <!-- Food Header -->
+                <div class="card food-header-card">
+                    <div class="food-title-row">
+                        <div>
+                            <h2 id="foodName" class="food-name">Food Name</h2>
+                            <span id="foodCategory" class="food-category-badge">Category</span>
+                        </div>
+                        <span id="healthRating" class="health-rating-badge">Rating</span>
+                    </div>
+                    <p id="foodDescription" class="food-description"></p>
+                    <p class="serving-size">Serving: <strong id="servingSize"></strong></p>
+                </div>
+
+                <!-- Macros -->
+                <div class="card stats-card">
+                    <h3>Nutritional Breakdown</h3>
+                    <div class="stats-grid" id="nutritionStats">
+                        <!-- Injected via JS -->
+                    </div>
+                </div>
+
+                <!-- Details Grid -->
+                <div class="analysis-grid">
+                    <div class="card">
+                        <h3 class="section-title">🥗 Ingredients</h3>
+                        <ul id="ingredientsList" class="analysis-list"></ul>
+                    </div>
+                    <div class="card">
+                        <h3 class="section-title">💚 Health Benefits</h3>
+                        <ul id="benefitsList" class="analysis-list"></ul>
+                    </div>
+                    <div class="card">
+                        <h3 class="section-title">⚠️ Warnings</h3>
+                        <ul id="warningsList" class="analysis-list"></ul>
+                    </div>
+                    <div class="card">
+                        <h3 class="section-title">🔄 Healthier Alternatives</h3>
+                        <ul id="alternativesList" class="analysis-list"></ul>
+                    </div>
+                </div>
+
+                <!-- Detailed Analysis -->
+                <div class="card">
+                    <h3 class="section-title">📝 Detailed Analysis</h3>
+                    <p id="detailedAnalysis" class="detailed-text"></p>
+                </div>
+
+                <div class="actions">
+                    <button onclick="resetAnalysis()" class="btn-secondary">Analyze Another Food</button>
+                </div>
+            </div>
+
+            <!-- Error -->
+            <div id="analysisError" class="card error-card hidden">
+                <h3>Oops!</h3>
+                <p id="analysisErrorText">Something went wrong.</p>
+                <button onclick="resetAnalysis()" class="btn-secondary">Try Again</button>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
