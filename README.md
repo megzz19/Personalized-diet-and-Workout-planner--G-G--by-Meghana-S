@@ -129,6 +129,4 @@ Open `frontend/index.html` in your browser, or serve it using a local developmen
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
+This is a Capston Project
