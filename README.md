@@ -67,8 +67,8 @@ brownie/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/brownie.git
-cd brownie
+git clone https://github.com/megzz19/Personalized-diet-and-Workout-planner--G-G--by-Meghana-S.git
+cd Personalized-diet-and-Workout-planner--G-G--by-Meghana-S
 ```
 
 ### 2. Create a Virtual Environment
